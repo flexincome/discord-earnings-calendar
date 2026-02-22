@@ -1,0 +1,33 @@
+name: Update Earnings
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # Runs every day at exactly 8:00 AM EST
+  workflow_dispatch:       # Lets you run it manually anytime from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install required packages
+        run: pip install requests pandas yfinance
+      
+      - name: Run the earnings script
+        env:
+          FINNHUB_TOKEN: ${{ secrets.FINNHUB_TOKEN }}
+        run: python update_earnings.py
+      
+      - name: Commit and push the fresh earnings.json
+        run: |
+          git config user.name "Earnings Bot"
+          git config user.email "bot@discord.com"
+          git add earnings.json
+          git commit -m "Auto update earnings $(date)" || echo "No changes today"
+          git push
