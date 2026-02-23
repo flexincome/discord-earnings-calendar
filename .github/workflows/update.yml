@@ -5,6 +5,9 @@ on:
     - cron: '0 13 * * *'   # Runs every day at exactly 8:00 AM EST
   workflow_dispatch:       # Lets you run it manually anytime from the Actions tab
 
+permissions:
+  contents: write          # ← THIS IS THE FIX (allows the bot to push earnings.json)
+
 jobs:
   update:
     runs-on: ubuntu-latest
