@@ -1,6 +1,325 @@
 {
-  "last_updated": "2026-03-02T14:09:14.556902",
+  "last_updated": "2026-03-03T14:07:36.068833",
   "data": [
+    {
+      "symbol": "WHWK",
+      "company": "Whitehawk Therapeutics, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.16,
+      "rev_est": 20400000.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "ICAD",
+      "company": "ICAD",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.05,
+      "rev_est": 5495760.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "DRMA",
+      "company": "Dermata Therapeutics, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -1.57,
+      "rev_est": NaN,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "SERA",
+      "company": "Sera Prognostics, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.19,
+      "rev_est": 30600.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "QTTB",
+      "company": "Q32 Bio Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.88,
+      "rev_est": 0.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "TME",
+      "company": "Tencent Music Entertainment Group",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 1.61,
+      "rev_est": 8520054434.0,
+      "implied_pct": 10.0,
+      "price": 14.43,
+      "implied_dollar": 1.44
+    },
+    {
+      "symbol": "SCPH",
+      "company": "SCPH",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.17,
+      "rev_est": 26101545.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "STIM",
+      "company": "Neuronetics, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.11,
+      "rev_est": 41480003.0,
+      "implied_pct": 54.3,
+      "price": 1.29,
+      "implied_dollar": 0.7
+    },
+    {
+      "symbol": "NRGV",
+      "company": "Energy Vault Holdings, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.1,
+      "rev_est": 151329240.0,
+      "implied_pct": 22.8,
+      "price": 3.25,
+      "implied_dollar": 0.74
+    },
+    {
+      "symbol": "PGEN",
+      "company": "Precigen, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.09,
+      "rev_est": 8451383.0,
+      "implied_pct": 48.9,
+      "price": 3.62,
+      "implied_dollar": 1.77
+    },
+    {
+      "symbol": "GIS",
+      "company": "General Mills, Inc.",
+      "date": "2026-03-17",
+      "time": "BMO",
+      "eps_est": 0.73,
+      "rev_est": 4470454728.0,
+      "implied_pct": 8.3,
+      "price": 45.12,
+      "implied_dollar": 3.74
+    },
+    {
+      "symbol": "LFT",
+      "company": "Lument Finance Trust, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.06,
+      "rev_est": 18688030.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "CAAP",
+      "company": "Corporaci\u00f3n Am\u00e9rica Airports S.A.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.44,
+      "rev_est": 490166100.0,
+      "implied_pct": 8.8,
+      "price": 28.38,
+      "implied_dollar": 2.5
+    },
+    {
+      "symbol": "PRSO",
+      "company": "Peraso Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.18,
+      "rev_est": 3014100.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "KC",
+      "company": "Kingsoft Cloud Holdings Limited",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.63,
+      "rev_est": 2821300768.0,
+      "implied_pct": 13.7,
+      "price": 12.82,
+      "implied_dollar": 1.76
+    },
+    {
+      "symbol": "BKKT",
+      "company": "Bakkt, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.56,
+      "rev_est": 404158680.0,
+      "implied_pct": 48.8,
+      "price": 9.96,
+      "implied_dollar": 4.86
+    },
+    {
+      "symbol": "DOCU",
+      "company": "DocuSign, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.97,
+      "rev_est": 844397758.0,
+      "implied_pct": 16.8,
+      "price": 46.16,
+      "implied_dollar": 7.75
+    },
+    {
+      "symbol": "OSS",
+      "company": "One Stop Systems, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.04,
+      "rev_est": 16017256.0,
+      "implied_pct": 22.8,
+      "price": 8.62,
+      "implied_dollar": 1.97
+    },
+    {
+      "symbol": "IPM",
+      "company": "Intelligent Protection Management Corp.",
+      "date": "2026-03-17",
+      "time": "BMO",
+      "eps_est": -0.06,
+      "rev_est": 6066060.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "HQY",
+      "company": "HealthEquity, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.91,
+      "rev_est": 336237009.0,
+      "implied_pct": 12.1,
+      "price": 77.93,
+      "implied_dollar": 9.43
+    },
+    {
+      "symbol": "TACT",
+      "company": "TransAct Technologies Incorporated",
+      "date": "2026-03-17",
+      "time": "BMO",
+      "eps_est": -0.08,
+      "rev_est": 12036000.0,
+      "implied_pct": 18.9,
+      "price": 3.5,
+      "implied_dollar": 0.66
+    },
+    {
+      "symbol": "JOYY",
+      "company": "JOYY Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 1.4,
+      "rev_est": 576378978.0,
+      "implied_pct": 7.7,
+      "price": 59.66,
+      "implied_dollar": 4.59
+    },
+    {
+      "symbol": "HUYA",
+      "company": "HUYA Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.16,
+      "rev_est": 1773409740.0,
+      "implied_pct": 36.9,
+      "price": 3.6,
+      "implied_dollar": 1.33
+    },
+    {
+      "symbol": "CHRS",
+      "company": "Coherus Oncology, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.36,
+      "rev_est": 14223390.0,
+      "implied_pct": 63.6,
+      "price": 1.65,
+      "implied_dollar": 1.05
+    },
+    {
+      "symbol": "KNOP",
+      "company": "KNOT Offshore Partners LP",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": 0.39,
+      "rev_est": 94086503.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "IMNM",
+      "company": "Immunome, Inc.",
+      "date": "2026-03-17",
+      "time": "BMO",
+      "eps_est": -0.61,
+      "rev_est": 306000.0,
+      "implied_pct": 13.5,
+      "price": 22.21,
+      "implied_dollar": 3.0
+    },
+    {
+      "symbol": "CAPR",
+      "company": "Capricor Therapeutics, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.55,
+      "rev_est": 0.0,
+      "implied_pct": 23.5,
+      "price": 26.86,
+      "implied_dollar": 6.31
+    },
+    {
+      "symbol": "SWKH",
+      "company": "SWK Holdings Corporation",
+      "date": "2026-03-17",
+      "time": "BMO",
+      "eps_est": 0.53,
+      "rev_est": NaN,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "GLTO",
+      "company": "Galecto, Inc.",
+      "date": "2026-03-17",
+      "time": "AMC",
+      "eps_est": -0.11,
+      "rev_est": 0.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
     {
       "symbol": "PLX",
       "company": "Protalix BioTherapeutics, Inc.",
@@ -8,9 +327,9 @@
       "time": "BMO",
       "eps_est": 0.01,
       "rev_est": 14502590.0,
-      "implied_pct": 20.8,
-      "price": 2.88,
-      "implied_dollar": 0.6
+      "implied_pct": 21.1,
+      "price": 3.03,
+      "implied_dollar": 0.64
     },
     {
       "symbol": "XCUR",
@@ -30,8 +349,8 @@
       "time": "AMC",
       "eps_est": -0.94,
       "rev_est": 640618760.0,
-      "implied_pct": 34.5,
-      "price": 3.62,
+      "implied_pct": 33.3,
+      "price": 3.75,
       "implied_dollar": 1.25
     },
     {
@@ -41,9 +360,9 @@
       "time": "AMC",
       "eps_est": -0.54,
       "rev_est": 0.0,
-      "implied_pct": 17.4,
-      "price": 24.2,
-      "implied_dollar": 4.21
+      "implied_pct": 17.5,
+      "price": 24.02,
+      "implied_dollar": 4.2
     },
     {
       "symbol": "VFS",
@@ -52,9 +371,9 @@
       "time": "BMO",
       "eps_est": -0.36,
       "rev_est": 1139579465.0,
-      "implied_pct": 12.9,
-      "price": 3.26,
-      "implied_dollar": 0.42
+      "implied_pct": 14.3,
+      "price": 3.22,
+      "implied_dollar": 0.46
     },
     {
       "symbol": "OVID",
@@ -63,9 +382,9 @@
       "time": "AMC",
       "eps_est": -0.12,
       "rev_est": 13596.0,
-      "implied_pct": 14.1,
-      "price": 1.63,
-      "implied_dollar": 0.23
+      "implied_pct": 13.3,
+      "price": 1.66,
+      "implied_dollar": 0.22
     },
     {
       "symbol": "LNZA",
@@ -118,9 +437,9 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 105194130.0,
-      "implied_pct": 18.2,
-      "price": 18.18,
-      "implied_dollar": 3.31
+      "implied_pct": 17.4,
+      "price": 18.97,
+      "implied_dollar": 3.3
     },
     {
       "symbol": "TSQ",
@@ -129,9 +448,9 @@
       "time": "AMC",
       "eps_est": 0.11,
       "rev_est": 107461475.0,
-      "implied_pct": 51.4,
-      "price": 7.4,
-      "implied_dollar": 3.8
+      "implied_pct": 23.3,
+      "price": 7.71,
+      "implied_dollar": 1.8
     },
     {
       "symbol": "CWCO",
@@ -151,9 +470,9 @@
       "time": "AMC",
       "eps_est": -0.11,
       "rev_est": 204000.0,
-      "implied_pct": 19.8,
-      "price": 3.63,
-      "implied_dollar": 0.72
+      "implied_pct": 24.5,
+      "price": 3.68,
+      "implied_dollar": 0.9
     },
     {
       "symbol": "IHS",
@@ -162,8 +481,8 @@
       "time": "AMC",
       "eps_est": 0.08,
       "rev_est": 436928020.0,
-      "implied_pct": 6.2,
-      "price": 8.0,
+      "implied_pct": 6.4,
+      "price": 7.87,
       "implied_dollar": 0.5
     },
     {
@@ -173,9 +492,9 @@
       "time": "AMC",
       "eps_est": -3.25,
       "rev_est": 3026003.0,
-      "implied_pct": 25.1,
-      "price": 13.97,
-      "implied_dollar": 3.51
+      "implied_pct": 26.5,
+      "price": 13.98,
+      "implied_dollar": 3.7
     },
     {
       "symbol": "OCFT",
@@ -195,8 +514,8 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 26.0,
-      "price": 2.89,
+      "implied_pct": 25.6,
+      "price": 2.93,
       "implied_dollar": 0.75
     },
     {
@@ -217,8 +536,8 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 47.7,
-      "price": 5.62,
+      "implied_pct": 46.8,
+      "price": 5.73,
       "implied_dollar": 2.68
     },
     {
@@ -239,8 +558,8 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 251147205.0,
-      "implied_pct": 32.1,
-      "price": 0.78,
+      "implied_pct": 32.3,
+      "price": 0.77,
       "implied_dollar": 0.25
     },
     {
@@ -250,8 +569,8 @@
       "time": "BMO",
       "eps_est": 0.01,
       "rev_est": 413462600.0,
-      "implied_pct": 66.9,
-      "price": 6.16,
+      "implied_pct": 60.2,
+      "price": 6.84,
       "implied_dollar": 4.12
     },
     {
@@ -272,9 +591,9 @@
       "time": "AMC",
       "eps_est": -0.0,
       "rev_est": 7675500.0,
-      "implied_pct": 50.5,
-      "price": 1.86,
-      "implied_dollar": 0.94
+      "implied_pct": 52.6,
+      "price": 1.8,
+      "implied_dollar": 0.95
     },
     {
       "symbol": "KRRO",
@@ -283,9 +602,9 @@
       "time": "AMC",
       "eps_est": -2.11,
       "rev_est": 550800.0,
-      "implied_pct": 23.1,
-      "price": 12.13,
-      "implied_dollar": 2.8
+      "implied_pct": 24.3,
+      "price": 11.5,
+      "implied_dollar": 2.79
     },
     {
       "symbol": "OPAL",
@@ -294,9 +613,9 @@
       "time": "AMC",
       "eps_est": 0.15,
       "rev_est": 95842433.0,
-      "implied_pct": 28.7,
-      "price": 2.09,
-      "implied_dollar": 0.6
+      "implied_pct": 25.0,
+      "price": 2.16,
+      "implied_dollar": 0.54
     },
     {
       "symbol": "SGMO",
@@ -305,9 +624,9 @@
       "time": "AMC",
       "eps_est": -0.06,
       "rev_est": 20706000.0,
-      "implied_pct": 37.0,
+      "implied_pct": 46.5,
       "price": 0.43,
-      "implied_dollar": 0.16
+      "implied_dollar": 0.2
     },
     {
       "symbol": "RBOT",
@@ -327,8 +646,8 @@
       "time": "BMO",
       "eps_est": -0.28,
       "rev_est": 1966560.0,
-      "implied_pct": 37.3,
-      "price": 4.96,
+      "implied_pct": 37.7,
+      "price": 4.91,
       "implied_dollar": 1.85
     },
     {
@@ -338,8 +657,8 @@
       "time": "AMC",
       "eps_est": -0.11,
       "rev_est": NaN,
-      "implied_pct": 61.8,
-      "price": 6.96,
+      "implied_pct": 62.5,
+      "price": 6.88,
       "implied_dollar": 4.3
     },
     {
@@ -349,9 +668,9 @@
       "time": "AMC",
       "eps_est": -0.07,
       "rev_est": 160268000.0,
-      "implied_pct": 25.2,
-      "price": 8.86,
-      "implied_dollar": 2.23
+      "implied_pct": 21.1,
+      "price": 9.0,
+      "implied_dollar": 1.9
     },
     {
       "symbol": "ATER",
@@ -371,8 +690,8 @@
       "time": "AMC",
       "eps_est": 0.0,
       "rev_est": 46257000.0,
-      "implied_pct": 36.7,
-      "price": 1.39,
+      "implied_pct": 36.2,
+      "price": 1.41,
       "implied_dollar": 0.51
     },
     {
@@ -382,8 +701,8 @@
       "time": "AMC",
       "eps_est": -0.14,
       "rev_est": 0.0,
-      "implied_pct": 46.8,
-      "price": 4.21,
+      "implied_pct": 47.5,
+      "price": 4.15,
       "implied_dollar": 1.97
     },
     {
@@ -393,8 +712,8 @@
       "time": "AMC",
       "eps_est": -0.09,
       "rev_est": 10506626.0,
-      "implied_pct": 12.9,
-      "price": 0.78,
+      "implied_pct": 13.3,
+      "price": 0.75,
       "implied_dollar": 0.1
     },
     {
@@ -415,8 +734,8 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 5258100.0,
-      "implied_pct": 140.2,
-      "price": 1.07,
+      "implied_pct": 141.5,
+      "price": 1.06,
       "implied_dollar": 1.5
     },
     {
@@ -459,8 +778,8 @@
       "time": "AMC",
       "eps_est": -0.37,
       "rev_est": 0.0,
-      "implied_pct": 45.9,
-      "price": 1.81,
+      "implied_pct": 47.7,
+      "price": 1.74,
       "implied_dollar": 0.83
     },
     {
@@ -470,9 +789,9 @@
       "time": "BMO",
       "eps_est": 1.93,
       "rev_est": 1797957967.0,
-      "implied_pct": 11.4,
-      "price": 92.26,
-      "implied_dollar": 10.52
+      "implied_pct": 8.3,
+      "price": 92.49,
+      "implied_dollar": 7.68
     },
     {
       "symbol": "LIDR",
@@ -492,9 +811,9 @@
       "time": "BMO",
       "eps_est": 0.25,
       "rev_est": 157284000.0,
-      "implied_pct": 12.3,
-      "price": 7.82,
-      "implied_dollar": 0.96
+      "implied_pct": 11.4,
+      "price": 7.81,
+      "implied_dollar": 0.89
     },
     {
       "symbol": "MDRX",
@@ -525,9 +844,9 @@
       "time": "AMC",
       "eps_est": -1.05,
       "rev_est": 0.0,
-      "implied_pct": 14.6,
-      "price": 30.07,
-      "implied_dollar": 4.39
+      "implied_pct": 9.4,
+      "price": 29.82,
+      "implied_dollar": 2.8
     },
     {
       "symbol": "QFIN",
@@ -536,9 +855,9 @@
       "time": "AMC",
       "eps_est": 8.37,
       "rev_est": 4374780000.0,
-      "implied_pct": 27.1,
-      "price": 14.56,
-      "implied_dollar": 3.95
+      "implied_pct": 25.7,
+      "price": 15.39,
+      "implied_dollar": 3.96
     },
     {
       "symbol": "DMAC",
@@ -547,8 +866,8 @@
       "time": "AMC",
       "eps_est": -0.18,
       "rev_est": 0.0,
-      "implied_pct": 15.5,
-      "price": 7.95,
+      "implied_pct": 15.8,
+      "price": 7.78,
       "implied_dollar": 1.23
     },
     {
@@ -569,9 +888,9 @@
       "time": "AMC",
       "eps_est": -0.1,
       "rev_est": 0.0,
-      "implied_pct": 12.6,
-      "price": 11.92,
-      "implied_dollar": 1.5
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
     },
     {
       "symbol": "AGRO",
@@ -580,9 +899,9 @@
       "time": "AMC",
       "eps_est": -0.01,
       "rev_est": 383591400.0,
-      "implied_pct": 13.1,
-      "price": 8.88,
-      "implied_dollar": 1.16
+      "implied_pct": 17.2,
+      "price": 9.32,
+      "implied_dollar": 1.6
     },
     {
       "symbol": "STOK",
@@ -591,9 +910,9 @@
       "time": "AMC",
       "eps_est": -0.72,
       "rev_est": 6035003.0,
-      "implied_pct": 20.1,
-      "price": 36.41,
-      "implied_dollar": 7.32
+      "implied_pct": 20.3,
+      "price": 36.69,
+      "implied_dollar": 7.45
     },
     {
       "symbol": "ETON",
@@ -602,9 +921,9 @@
       "time": "AMC",
       "eps_est": 0.1,
       "rev_est": 20990580.0,
-      "implied_pct": 29.1,
-      "price": 16.99,
-      "implied_dollar": 4.94
+      "implied_pct": 17.1,
+      "price": 18.15,
+      "implied_dollar": 3.1
     },
     {
       "symbol": "CBAT",
@@ -635,9 +954,9 @@
       "time": "AMC",
       "eps_est": 0.38,
       "rev_est": 44544787.0,
-      "implied_pct": 10.6,
-      "price": 38.26,
-      "implied_dollar": 4.06
+      "implied_pct": 10.5,
+      "price": 38.75,
+      "implied_dollar": 4.07
     },
     {
       "symbol": "JBL",
@@ -658,8 +977,8 @@
       "eps_est": 1.26,
       "rev_est": 1144440000.0,
       "implied_pct": 8.4,
-      "price": 55.89,
-      "implied_dollar": 4.69
+      "price": 56.04,
+      "implied_dollar": 4.71
     },
     {
       "symbol": "AMTX",
@@ -668,8 +987,8 @@
       "time": "AMC",
       "eps_est": -0.22,
       "rev_est": 86985090.0,
-      "implied_pct": 63.4,
-      "price": 1.42,
+      "implied_pct": 62.5,
+      "price": 1.44,
       "implied_dollar": 0.9
     },
     {
@@ -701,9 +1020,9 @@
       "time": "AMC",
       "eps_est": -0.12,
       "rev_est": 153000.0,
-      "implied_pct": 42.9,
-      "price": 2.24,
-      "implied_dollar": 0.96
+      "implied_pct": 39.0,
+      "price": 2.31,
+      "implied_dollar": 0.9
     },
     {
       "symbol": "AIRS",
@@ -712,8 +1031,8 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 35201903.0,
-      "implied_pct": 98.1,
-      "price": 1.58,
+      "implied_pct": 90.6,
+      "price": 1.71,
       "implied_dollar": 1.55
     },
     {
@@ -723,9 +1042,9 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 11037828.0,
-      "implied_pct": 22.4,
-      "price": 4.77,
-      "implied_dollar": 1.07
+      "implied_pct": 26.5,
+      "price": 4.87,
+      "implied_dollar": 1.29
     },
     {
       "symbol": "BZFD",
@@ -734,7 +1053,7 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 59545560.0,
-      "implied_pct": 39.2,
+      "implied_pct": 39.5,
       "price": 0.76,
       "implied_dollar": 0.3
     },
@@ -745,8 +1064,8 @@
       "time": "BMO",
       "eps_est": -0.41,
       "rev_est": 0.0,
-      "implied_pct": 22.8,
-      "price": 5.71,
+      "implied_pct": 22.7,
+      "price": 5.72,
       "implied_dollar": 1.3
     },
     {
@@ -756,9 +1075,9 @@
       "time": "BMO",
       "eps_est": 22.09,
       "rev_est": 6439848682.0,
-      "implied_pct": 7.6,
-      "price": 148.84,
-      "implied_dollar": 11.31
+      "implied_pct": 7.5,
+      "price": 149.63,
+      "implied_dollar": 11.22
     },
     {
       "symbol": "CNTX",
@@ -778,9 +1097,9 @@
       "time": "AMC",
       "eps_est": 0.26,
       "rev_est": 359303864.0,
-      "implied_pct": 7.6,
-      "price": 13.02,
-      "implied_dollar": 0.99
+      "implied_pct": 9.2,
+      "price": 12.95,
+      "implied_dollar": 1.19
     },
     {
       "symbol": "MAPS",
@@ -789,8 +1108,8 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 43146000.0,
-      "implied_pct": 98.7,
-      "price": 0.67,
+      "implied_pct": 96.8,
+      "price": 0.68,
       "implied_dollar": 0.66
     },
     {
@@ -811,9 +1130,9 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 79312711.0,
-      "implied_pct": 27.9,
-      "price": 1.04,
-      "implied_dollar": 0.29
+      "implied_pct": 29.6,
+      "price": 1.08,
+      "implied_dollar": 0.32
     },
     {
       "symbol": "VERI",
@@ -822,8 +1141,8 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 34971975.0,
-      "implied_pct": 30.1,
-      "price": 2.82,
+      "implied_pct": 29.2,
+      "price": 2.91,
       "implied_dollar": 0.85
     },
     {
@@ -833,9 +1152,9 @@
       "time": "AMC",
       "eps_est": -0.09,
       "rev_est": 1954320.0,
-      "implied_pct": 22.1,
-      "price": 2.89,
-      "implied_dollar": 0.64
+      "implied_pct": 21.8,
+      "price": 2.8,
+      "implied_dollar": 0.61
     },
     {
       "symbol": "AVD",
@@ -855,8 +1174,8 @@
       "time": "AMC",
       "eps_est": 0.36,
       "rev_est": 33243840.0,
-      "implied_pct": 49.0,
-      "price": 7.75,
+      "implied_pct": 48.1,
+      "price": 7.9,
       "implied_dollar": 3.8
     },
     {
@@ -866,9 +1185,9 @@
       "time": "AMC",
       "eps_est": 0.04,
       "rev_est": 32549220.0,
-      "implied_pct": 19.6,
-      "price": 2.45,
-      "implied_dollar": 0.48
+      "implied_pct": 17.8,
+      "price": 2.47,
+      "implied_dollar": 0.44
     },
     {
       "symbol": "MRC",
@@ -888,9 +1207,9 @@
       "time": "AMC",
       "eps_est": -0.09,
       "rev_est": 141172750.0,
-      "implied_pct": 32.2,
-      "price": 2.89,
-      "implied_dollar": 0.93
+      "implied_pct": 21.0,
+      "price": 2.95,
+      "implied_dollar": 0.62
     },
     {
       "symbol": "SNDL",
@@ -899,8 +1218,8 @@
       "time": "AMC",
       "eps_est": -0.01,
       "rev_est": 263874000.0,
-      "implied_pct": 42.9,
-      "price": 1.54,
+      "implied_pct": 43.4,
+      "price": 1.52,
       "implied_dollar": 0.66
     },
     {
@@ -910,8 +1229,8 @@
       "time": "AMC",
       "eps_est": -0.17,
       "rev_est": 1167787.0,
-      "implied_pct": 16.4,
-      "price": 2.93,
+      "implied_pct": 16.7,
+      "price": 2.88,
       "implied_dollar": 0.48
     },
     {
@@ -932,9 +1251,9 @@
       "time": "AMC",
       "eps_est": 0.38,
       "rev_est": 154860225.0,
-      "implied_pct": 22.7,
-      "price": 45.82,
-      "implied_dollar": 10.4
+      "implied_pct": 20.9,
+      "price": 46.07,
+      "implied_dollar": 9.63
     },
     {
       "symbol": "WOW",
@@ -965,8 +1284,8 @@
       "time": "AMC",
       "eps_est": -0.28,
       "rev_est": 0.0,
-      "implied_pct": 51.5,
-      "price": 4.56,
+      "implied_pct": 50.9,
+      "price": 4.62,
       "implied_dollar": 2.35
     },
     {
@@ -976,9 +1295,9 @@
       "time": "AMC",
       "eps_est": 0.04,
       "rev_est": 23562000.0,
-      "implied_pct": 40.7,
-      "price": 0.61,
-      "implied_dollar": 0.25
+      "implied_pct": 44.0,
+      "price": 0.59,
+      "implied_dollar": 0.26
     },
     {
       "symbol": "BTBT",
@@ -987,9 +1306,9 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 32511990.0,
-      "implied_pct": 71.9,
-      "price": 1.67,
-      "implied_dollar": 1.2
+      "implied_pct": 66.1,
+      "price": 1.77,
+      "implied_dollar": 1.17
     },
     {
       "symbol": "PD",
@@ -998,9 +1317,9 @@
       "time": "AMC",
       "eps_est": 0.25,
       "rev_est": 126847075.0,
-      "implied_pct": 31.2,
-      "price": 7.06,
-      "implied_dollar": 2.2
+      "implied_pct": 28.7,
+      "price": 7.15,
+      "implied_dollar": 2.05
     },
     {
       "symbol": "LWAY",
@@ -1020,9 +1339,9 @@
       "time": "AMC",
       "eps_est": -2.52,
       "rev_est": 10611702.0,
-      "implied_pct": 14.8,
-      "price": 68.98,
-      "implied_dollar": 10.21
+      "implied_pct": 13.4,
+      "price": 68.36,
+      "implied_dollar": 9.16
     },
     {
       "symbol": "HSON",
@@ -1053,8 +1372,8 @@
       "time": "AMC",
       "eps_est": -0.1,
       "rev_est": 553627440.0,
-      "implied_pct": 29.0,
-      "price": 11.56,
+      "implied_pct": 28.7,
+      "price": 11.68,
       "implied_dollar": 3.35
     },
     {
@@ -1064,9 +1383,9 @@
       "time": "AMC",
       "eps_est": 0.15,
       "rev_est": 153078540.0,
-      "implied_pct": 11.1,
-      "price": 11.48,
-      "implied_dollar": 1.27
+      "implied_pct": 11.3,
+      "price": 11.29,
+      "implied_dollar": 1.28
     },
     {
       "symbol": "INVE",
@@ -1075,8 +1394,8 @@
       "time": "AMC",
       "eps_est": -0.17,
       "rev_est": 5559000.0,
-      "implied_pct": 34.9,
-      "price": 3.15,
+      "implied_pct": 34.7,
+      "price": 3.17,
       "implied_dollar": 1.1
     },
     {
@@ -1119,8 +1438,8 @@
       "time": "AMC",
       "eps_est": 0.2,
       "rev_est": 124868400.0,
-      "implied_pct": 25.8,
-      "price": 11.06,
+      "implied_pct": 25.7,
+      "price": 11.1,
       "implied_dollar": 2.85
     },
     {
@@ -1141,9 +1460,9 @@
       "time": "AMC",
       "eps_est": 5.99,
       "rev_est": 6401428608.0,
-      "implied_pct": 9.4,
-      "price": 262.41,
-      "implied_dollar": 24.67
+      "implied_pct": 9.9,
+      "price": 260.88,
+      "implied_dollar": 25.83
     },
     {
       "symbol": "TBCH",
@@ -1152,9 +1471,9 @@
       "time": "AMC",
       "eps_est": 1.16,
       "rev_est": 148217393.0,
-      "implied_pct": 17.1,
-      "price": 12.54,
-      "implied_dollar": 2.14
+      "implied_pct": 16.5,
+      "price": 12.56,
+      "implied_dollar": 2.07
     },
     {
       "symbol": "LEN",
@@ -1163,9 +1482,9 @@
       "time": "AMC",
       "eps_est": 0.97,
       "rev_est": 6957150245.0,
-      "implied_pct": 6.5,
-      "price": 114.36,
-      "implied_dollar": 7.43
+      "implied_pct": 17.9,
+      "price": 110.61,
+      "implied_dollar": 19.8
     },
     {
       "symbol": "RLX",
@@ -1174,8 +1493,8 @@
       "time": "BMO",
       "eps_est": 0.23,
       "rev_est": 1090416200.0,
-      "implied_pct": 31.0,
-      "price": 2.42,
+      "implied_pct": 32.2,
+      "price": 2.33,
       "implied_dollar": 0.75
     },
     {
@@ -1196,8 +1515,8 @@
       "time": "BMO",
       "eps_est": 0.0,
       "rev_est": 12422580.0,
-      "implied_pct": 137.3,
-      "price": 1.02,
+      "implied_pct": 135.9,
+      "price": 1.03,
       "implied_dollar": 1.4
     },
     {
@@ -1207,9 +1526,9 @@
       "time": "AMC",
       "eps_est": 1.88,
       "rev_est": 943385076.0,
-      "implied_pct": 26.8,
-      "price": 13.6,
-      "implied_dollar": 3.64
+      "implied_pct": 27.2,
+      "price": 13.42,
+      "implied_dollar": 3.65
     },
     {
       "symbol": "STRR",
@@ -1251,8 +1570,8 @@
       "time": "BMO",
       "eps_est": 0.32,
       "rev_est": 206132136.0,
-      "implied_pct": 36.6,
-      "price": 3.31,
+      "implied_pct": 37.2,
+      "price": 3.25,
       "implied_dollar": 1.21
     },
     {
@@ -1262,8 +1581,8 @@
       "time": "BMO",
       "eps_est": 0.05,
       "rev_est": 59837783.0,
-      "implied_pct": 20.9,
-      "price": 3.58,
+      "implied_pct": 21.7,
+      "price": 3.45,
       "implied_dollar": 0.75
     },
     {
@@ -1273,9 +1592,9 @@
       "time": "AMC",
       "eps_est": 0.06,
       "rev_est": 276600988.0,
-      "implied_pct": 16.8,
-      "price": 13.12,
-      "implied_dollar": 2.2
+      "implied_pct": 14.1,
+      "price": 13.13,
+      "implied_dollar": 1.85
     },
     {
       "symbol": "REFI",
@@ -1295,8 +1614,8 @@
       "time": "AMC",
       "eps_est": -0.65,
       "rev_est": NaN,
-      "implied_pct": 51.0,
-      "price": 5.29,
+      "implied_pct": 48.2,
+      "price": 5.6,
       "implied_dollar": 2.7
     },
     {
@@ -1328,8 +1647,8 @@
       "time": "AMC",
       "eps_est": 0.97,
       "rev_est": 3155442292.0,
-      "implied_pct": 23.2,
-      "price": 9.38,
+      "implied_pct": 23.4,
+      "price": 9.32,
       "implied_dollar": 2.18
     },
     {
@@ -1339,9 +1658,9 @@
       "time": "AMC",
       "eps_est": -0.43,
       "rev_est": 144903750.0,
-      "implied_pct": 56.5,
-      "price": 1.68,
-      "implied_dollar": 0.95
+      "implied_pct": 55.7,
+      "price": 1.67,
+      "implied_dollar": 0.93
     },
     {
       "symbol": "SHIM",
@@ -1361,9 +1680,9 @@
       "time": "BMO",
       "eps_est": 0.23,
       "rev_est": 72014010.0,
-      "implied_pct": 16.0,
-      "price": 28.35,
-      "implied_dollar": 4.54
+      "implied_pct": 14.4,
+      "price": 28.41,
+      "implied_dollar": 4.09
     },
     {
       "symbol": "GAMB",
@@ -1372,9 +1691,9 @@
       "time": "BMO",
       "eps_est": 0.17,
       "rev_est": 46846692.0,
-      "implied_pct": 61.7,
-      "price": 4.36,
-      "implied_dollar": 2.69
+      "implied_pct": 64.2,
+      "price": 4.38,
+      "implied_dollar": 2.81
     },
     {
       "symbol": "GLBS",
@@ -1394,9 +1713,9 @@
       "time": "BMO",
       "eps_est": 0.35,
       "rev_est": 52688610.0,
-      "implied_pct": 14.7,
-      "price": 7.98,
-      "implied_dollar": 1.17
+      "implied_pct": 14.9,
+      "price": 8.04,
+      "implied_dollar": 1.2
     },
     {
       "symbol": "RPID",
@@ -1416,8 +1735,8 @@
       "time": "BMO",
       "eps_est": 0.29,
       "rev_est": 162995235.0,
-      "implied_pct": 16.8,
-      "price": 9.18,
+      "implied_pct": 17.0,
+      "price": 9.06,
       "implied_dollar": 1.54
     },
     {
@@ -1427,9 +1746,9 @@
       "time": "BMO",
       "eps_est": 1.25,
       "rev_est": 702068978.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
+      "implied_pct": 11.5,
+      "price": 62.2,
+      "implied_dollar": 7.15
     },
     {
       "symbol": "MRMD",
@@ -1449,8 +1768,8 @@
       "time": "AMC",
       "eps_est": -0.16,
       "rev_est": 0.0,
-      "implied_pct": 86.5,
-      "price": 1.71,
+      "implied_pct": 85.5,
+      "price": 1.73,
       "implied_dollar": 1.48
     },
     {
@@ -1460,8 +1779,8 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 44809620.0,
-      "implied_pct": 61.7,
-      "price": 1.54,
+      "implied_pct": 59.7,
+      "price": 1.59,
       "implied_dollar": 0.95
     },
     {
@@ -1482,8 +1801,8 @@
       "time": "AMC",
       "eps_est": -0.04,
       "rev_est": 36550822.0,
-      "implied_pct": 19.8,
-      "price": 1.01,
+      "implied_pct": 19.6,
+      "price": 1.02,
       "implied_dollar": 0.2
     },
     {
@@ -1515,9 +1834,9 @@
       "time": "AMC",
       "eps_est": 0.25,
       "rev_est": 156097056.0,
-      "implied_pct": 22.1,
-      "price": 9.35,
-      "implied_dollar": 2.07
+      "implied_pct": 22.0,
+      "price": 9.32,
+      "implied_dollar": 2.05
     },
     {
       "symbol": "SCM",
@@ -1526,9 +1845,9 @@
       "time": "AMC",
       "eps_est": 0.31,
       "rev_est": 26117590.0,
-      "implied_pct": 9.5,
-      "price": 10.02,
-      "implied_dollar": 0.95
+      "implied_pct": 7.4,
+      "price": 10.13,
+      "implied_dollar": 0.75
     },
     {
       "symbol": "SFIX",
@@ -1537,9 +1856,9 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 341421285.0,
-      "implied_pct": 28.2,
-      "price": 3.33,
-      "implied_dollar": 0.94
+      "implied_pct": 30.6,
+      "price": 3.24,
+      "implied_dollar": 0.99
     },
     {
       "symbol": "NVGS",
@@ -1548,9 +1867,9 @@
       "time": "AMC",
       "eps_est": 0.42,
       "rev_est": 145456957.0,
-      "implied_pct": 18.6,
-      "price": 21.02,
-      "implied_dollar": 3.91
+      "implied_pct": 19.1,
+      "price": 21.25,
+      "implied_dollar": 4.06
     },
     {
       "symbol": "TRML",
@@ -1570,8 +1889,8 @@
       "time": "AMC",
       "eps_est": -1.05,
       "rev_est": 26536320.0,
-      "implied_pct": 18.2,
-      "price": 3.36,
+      "implied_pct": 18.5,
+      "price": 3.3,
       "implied_dollar": 0.61
     },
     {
@@ -1581,9 +1900,9 @@
       "time": "AMC",
       "eps_est": 0.26,
       "rev_est": 473781442.0,
-      "implied_pct": 27.5,
-      "price": 10.73,
-      "implied_dollar": 2.95
+      "implied_pct": 26.8,
+      "price": 10.7,
+      "implied_dollar": 2.87
     },
     {
       "symbol": "KPLT",
@@ -1648,8 +1967,8 @@
       "eps_est": 0.68,
       "rev_est": NaN,
       "implied_pct": 11.6,
-      "price": 18.59,
-      "implied_dollar": 2.16
+      "price": 18.49,
+      "implied_dollar": 2.14
     },
     {
       "symbol": "SOL",
@@ -1680,9 +1999,9 @@
       "time": "AMC",
       "eps_est": -0.15,
       "rev_est": 149991683.0,
-      "implied_pct": 46.8,
-      "price": 1.71,
-      "implied_dollar": 0.8
+      "implied_pct": 45.0,
+      "price": 1.8,
+      "implied_dollar": 0.81
     },
     {
       "symbol": "ATYR",
@@ -1691,9 +2010,9 @@
       "time": "AMC",
       "eps_est": -0.19,
       "rev_est": 29141.0,
-      "implied_pct": 10.4,
-      "price": 0.96,
-      "implied_dollar": 0.1
+      "implied_pct": 13.1,
+      "price": 0.99,
+      "implied_dollar": 0.13
     },
     {
       "symbol": "CVKD",
@@ -1735,8 +2054,8 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 19210680.0,
-      "implied_pct": 29.6,
-      "price": 3.38,
+      "implied_pct": 29.7,
+      "price": 3.37,
       "implied_dollar": 1.0
     },
     {
@@ -1746,8 +2065,8 @@
       "time": "AMC",
       "eps_est": 0.15,
       "rev_est": 53550200.0,
-      "implied_pct": 33.7,
-      "price": 15.35,
+      "implied_pct": 32.7,
+      "price": 15.81,
       "implied_dollar": 5.17
     },
     {
@@ -1769,8 +2088,8 @@
       "eps_est": -4.43,
       "rev_est": 8507514.0,
       "implied_pct": 16.1,
-      "price": 20.47,
-      "implied_dollar": 3.3
+      "price": 20.55,
+      "implied_dollar": 3.31
     },
     {
       "symbol": "BMBL",
@@ -1779,9 +2098,9 @@
       "time": "AMC",
       "eps_est": 0.24,
       "rev_est": 225725857.0,
-      "implied_pct": 19.7,
+      "implied_pct": 20.7,
       "price": 3.04,
-      "implied_dollar": 0.6
+      "implied_dollar": 0.63
     },
     {
       "symbol": "UCL",
@@ -1812,9 +2131,9 @@
       "time": "AMC",
       "eps_est": -0.33,
       "rev_est": 0.0,
-      "implied_pct": 26.4,
-      "price": 6.36,
-      "implied_dollar": 1.68
+      "implied_pct": 21.9,
+      "price": 5.97,
+      "implied_dollar": 1.31
     },
     {
       "symbol": "IMRX",
@@ -1823,8 +2142,8 @@
       "time": "AMC",
       "eps_est": -0.32,
       "rev_est": 0.0,
-      "implied_pct": 53.9,
-      "price": 4.99,
+      "implied_pct": 53.8,
+      "price": 5.0,
       "implied_dollar": 2.69
     },
     {
@@ -1878,9 +2197,9 @@
       "time": "BMO",
       "eps_est": 0.57,
       "rev_est": 2638256622.0,
-      "implied_pct": 14.7,
-      "price": 26.95,
-      "implied_dollar": 3.96
+      "implied_pct": 15.0,
+      "price": 26.32,
+      "implied_dollar": 3.95
     },
     {
       "symbol": "GOSS",
@@ -1889,9 +2208,9 @@
       "time": "AMC",
       "eps_est": -0.2,
       "rev_est": 7672695.0,
-      "implied_pct": 42.4,
-      "price": 0.42,
-      "implied_dollar": 0.18
+      "implied_pct": 35.0,
+      "price": 0.43,
+      "implied_dollar": 0.15
     },
     {
       "symbol": "BLNK",
@@ -1900,9 +2219,9 @@
       "time": "AMC",
       "eps_est": -0.11,
       "rev_est": 31039416.0,
-      "implied_pct": 31.8,
-      "price": 0.66,
-      "implied_dollar": 0.21
+      "implied_pct": 29.8,
+      "price": 0.67,
+      "implied_dollar": 0.2
     },
     {
       "symbol": "BBW",
@@ -1911,9 +2230,9 @@
       "time": "BMO",
       "eps_est": 1.28,
       "rev_est": 157264575.0,
-      "implied_pct": 17.4,
-      "price": 48.66,
-      "implied_dollar": 8.47
+      "implied_pct": 70.9,
+      "price": 46.74,
+      "implied_dollar": 33.14
     },
     {
       "symbol": "ACTG",
@@ -1922,8 +2241,8 @@
       "time": "AMC",
       "eps_est": -0.15,
       "rev_est": 38760000.0,
-      "implied_pct": 14.3,
-      "price": 4.19,
+      "implied_pct": 14.5,
+      "price": 4.13,
       "implied_dollar": 0.6
     },
     {
@@ -1934,7 +2253,7 @@
       "eps_est": 0.59,
       "rev_est": 807824700.0,
       "implied_pct": 16.0,
-      "price": 30.59,
+      "price": 30.56,
       "implied_dollar": 4.89
     },
     {
@@ -1945,7 +2264,7 @@
       "eps_est": -0.87,
       "rev_est": 96563.0,
       "implied_pct": 14.5,
-      "price": 7.59,
+      "price": 7.6,
       "implied_dollar": 1.1
     },
     {
@@ -1955,9 +2274,9 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 29682000.0,
-      "implied_pct": 248.5,
+      "implied_pct": 263.9,
       "price": 0.15,
-      "implied_dollar": 0.37
+      "implied_dollar": 0.4
     },
     {
       "symbol": "ALTI",
@@ -1966,8 +2285,8 @@
       "time": "AMC",
       "eps_est": 0.04,
       "rev_est": 84660000.0,
-      "implied_pct": 69.5,
-      "price": 4.43,
+      "implied_pct": 66.8,
+      "price": 4.61,
       "implied_dollar": 3.08
     },
     {
@@ -1977,9 +2296,9 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 8388990.0,
-      "implied_pct": 155.5,
-      "price": 4.41,
-      "implied_dollar": 6.86
+      "implied_pct": 157.1,
+      "price": 4.36,
+      "implied_dollar": 6.85
     },
     {
       "symbol": "MCRB",
@@ -1988,8 +2307,8 @@
       "time": "AMC",
       "eps_est": -2.15,
       "rev_est": 0.0,
-      "implied_pct": 15.2,
-      "price": 8.74,
+      "implied_pct": 14.8,
+      "price": 8.96,
       "implied_dollar": 1.33
     },
     {
@@ -2010,9 +2329,9 @@
       "time": "AMC",
       "eps_est": 0.1,
       "rev_est": 219088826.0,
-      "implied_pct": 17.7,
-      "price": 5.82,
-      "implied_dollar": 1.03
+      "implied_pct": 15.8,
+      "price": 5.77,
+      "implied_dollar": 0.91
     },
     {
       "symbol": "ELVN",
@@ -2076,8 +2395,8 @@
       "time": "AMC",
       "eps_est": -0.12,
       "rev_est": 213818010.0,
-      "implied_pct": 24.8,
-      "price": 7.89,
+      "implied_pct": 25.5,
+      "price": 7.69,
       "implied_dollar": 1.96
     },
     {
@@ -2087,9 +2406,9 @@
       "time": "AMC",
       "eps_est": -0.22,
       "rev_est": 0.0,
-      "implied_pct": 32.4,
-      "price": 2.78,
-      "implied_dollar": 0.9
+      "implied_pct": 32.8,
+      "price": 2.65,
+      "implied_dollar": 0.87
     },
     {
       "symbol": "ECOR",
@@ -2131,9 +2450,9 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 80226396.0,
-      "implied_pct": 31.2,
-      "price": 3.59,
-      "implied_dollar": 1.12
+      "implied_pct": 30.3,
+      "price": 3.93,
+      "implied_dollar": 1.19
     },
     {
       "symbol": "CTOS",
@@ -2142,9 +2461,9 @@
       "time": "AMC",
       "eps_est": 0.07,
       "rev_est": 596465910.0,
-      "implied_pct": 21.6,
-      "price": 7.16,
-      "implied_dollar": 1.55
+      "implied_pct": 20.2,
+      "price": 7.19,
+      "implied_dollar": 1.45
     },
     {
       "symbol": "ESPR",
@@ -2153,8 +2472,8 @@
       "time": "AMC",
       "eps_est": 0.26,
       "rev_est": 182203844.0,
-      "implied_pct": 61.2,
-      "price": 3.35,
+      "implied_pct": 62.7,
+      "price": 3.27,
       "implied_dollar": 2.05
     },
     {
@@ -2175,8 +2494,8 @@
       "time": "BMO",
       "eps_est": -0.82,
       "rev_est": 160854000.0,
-      "implied_pct": 23.6,
-      "price": 2.54,
+      "implied_pct": 20.4,
+      "price": 2.94,
       "implied_dollar": 0.6
     },
     {
@@ -2186,9 +2505,9 @@
       "time": "AMC",
       "eps_est": -0.52,
       "rev_est": 2704630980.0,
-      "implied_pct": 28.4,
-      "price": 10.78,
-      "implied_dollar": 3.06
+      "implied_pct": 26.3,
+      "price": 10.45,
+      "implied_dollar": 2.75
     },
     {
       "symbol": "FOA",
@@ -2197,9 +2516,9 @@
       "time": "AMC",
       "eps_est": 0.66,
       "rev_est": 110534400.0,
-      "implied_pct": 7.8,
-      "price": 19.35,
-      "implied_dollar": 1.51
+      "implied_pct": 9.1,
+      "price": 19.15,
+      "implied_dollar": 1.74
     },
     {
       "symbol": "APYX",
@@ -2208,8 +2527,8 @@
       "time": "AMC",
       "eps_est": -0.06,
       "rev_est": 18237345.0,
-      "implied_pct": 44.3,
-      "price": 3.27,
+      "implied_pct": 44.2,
+      "price": 3.28,
       "implied_dollar": 1.45
     },
     {
@@ -2230,9 +2549,9 @@
       "time": "AMC",
       "eps_est": 0.31,
       "rev_est": 77250862.0,
-      "implied_pct": 30.5,
-      "price": 8.16,
-      "implied_dollar": 2.49
+      "implied_pct": 29.1,
+      "price": 8.22,
+      "implied_dollar": 2.39
     },
     {
       "symbol": "PHLT",
@@ -2274,8 +2593,8 @@
       "time": "AMC",
       "eps_est": -0.16,
       "rev_est": 24417083.0,
-      "implied_pct": 19.8,
-      "price": 14.67,
+      "implied_pct": 19.6,
+      "price": 14.8,
       "implied_dollar": 2.9
     },
     {
@@ -2285,9 +2604,9 @@
       "time": "AMC",
       "eps_est": 0.23,
       "rev_est": 12117600.0,
-      "implied_pct": 51.1,
-      "price": 4.89,
-      "implied_dollar": 2.5
+      "implied_pct": 51.5,
+      "price": 4.95,
+      "implied_dollar": 2.55
     },
     {
       "symbol": "NUWE",
@@ -2307,9 +2626,9 @@
       "time": "AMC",
       "eps_est": 0.01,
       "rev_est": 32413417.0,
-      "implied_pct": 9.5,
-      "price": 1.68,
-      "implied_dollar": 0.16
+      "implied_pct": 11.2,
+      "price": 1.7,
+      "implied_dollar": 0.19
     },
     {
       "symbol": "WEST",
@@ -2318,8 +2637,8 @@
       "time": "AMC",
       "eps_est": -0.16,
       "rev_est": 323748000.0,
-      "implied_pct": 55.9,
-      "price": 4.42,
+      "implied_pct": 57.4,
+      "price": 4.3,
       "implied_dollar": 2.47
     },
     {
@@ -2340,8 +2659,8 @@
       "time": "AMC",
       "eps_est": -0.19,
       "rev_est": 16837962.0,
-      "implied_pct": 20.2,
-      "price": 3.62,
+      "implied_pct": 20.6,
+      "price": 3.55,
       "implied_dollar": 0.73
     },
     {
@@ -2351,8 +2670,8 @@
       "time": "BMO",
       "eps_est": 0.29,
       "rev_est": 252957348.0,
-      "implied_pct": 42.3,
-      "price": 5.55,
+      "implied_pct": 41.6,
+      "price": 5.65,
       "implied_dollar": 2.35
     },
     {
@@ -2384,8 +2703,8 @@
       "time": "AMC",
       "eps_est": -2.76,
       "rev_est": 16958520.0,
-      "implied_pct": 29.5,
-      "price": 11.66,
+      "implied_pct": 29.2,
+      "price": 11.77,
       "implied_dollar": 3.44
     },
     {
@@ -2439,9 +2758,9 @@
       "time": "AMC",
       "eps_est": -0.04,
       "rev_est": 810396987.0,
-      "implied_pct": 8.9,
-      "price": 110.23,
-      "implied_dollar": 9.81
+      "implied_pct": 9.7,
+      "price": 107.48,
+      "implied_dollar": 10.43
     },
     {
       "symbol": "LDI",
@@ -2450,9 +2769,9 @@
       "time": "AMC",
       "eps_est": -0.04,
       "rev_est": 334925342.0,
-      "implied_pct": 84.5,
-      "price": 2.07,
-      "implied_dollar": 1.75
+      "implied_pct": 77.1,
+      "price": 1.92,
+      "implied_dollar": 1.48
     },
     {
       "symbol": "ULY",
@@ -2472,9 +2791,9 @@
       "time": "AMC",
       "eps_est": -0.11,
       "rev_est": 313012112.0,
-      "implied_pct": 14.9,
-      "price": 19.0,
-      "implied_dollar": 2.83
+      "implied_pct": 11.2,
+      "price": 18.44,
+      "implied_dollar": 2.07
     },
     {
       "symbol": "GRPN",
@@ -2483,9 +2802,9 @@
       "time": "AMC",
       "eps_est": 0.25,
       "rev_est": 140081700.0,
-      "implied_pct": 23.9,
-      "price": 12.62,
-      "implied_dollar": 3.02
+      "implied_pct": 36.0,
+      "price": 12.48,
+      "implied_dollar": 4.49
     },
     {
       "symbol": "CDRE",
@@ -2560,9 +2879,9 @@
       "time": "BMO",
       "eps_est": -0.05,
       "rev_est": 28039800.0,
-      "implied_pct": 29.7,
-      "price": 10.08,
-      "implied_dollar": 2.99
+      "implied_pct": 35.5,
+      "price": 10.67,
+      "implied_dollar": 3.79
     },
     {
       "symbol": "EVLV",
@@ -2571,8 +2890,8 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 37173390.0,
-      "implied_pct": 59.2,
-      "price": 5.3,
+      "implied_pct": 58.7,
+      "price": 5.35,
       "implied_dollar": 3.14
     },
     {
@@ -2615,8 +2934,8 @@
       "time": "AMC",
       "eps_est": -0.07,
       "rev_est": 33649573665.0,
-      "implied_pct": 41.3,
-      "price": 4.87,
+      "implied_pct": 42.6,
+      "price": 4.72,
       "implied_dollar": 2.01
     },
     {
@@ -2626,9 +2945,9 @@
       "time": "AMC",
       "eps_est": -0.14,
       "rev_est": 99497940.0,
-      "implied_pct": 190.4,
-      "price": 1.0,
-      "implied_dollar": 1.9
+      "implied_pct": 192.7,
+      "price": 0.99,
+      "implied_dollar": 1.91
     },
     {
       "symbol": "EH",
@@ -2637,8 +2956,8 @@
       "time": "BMO",
       "eps_est": -0.54,
       "rev_est": 204364875.0,
-      "implied_pct": 12.6,
-      "price": 12.27,
+      "implied_pct": 12.7,
+      "price": 12.22,
       "implied_dollar": 1.55
     },
     {
@@ -2648,9 +2967,20 @@
       "time": "AMC",
       "eps_est": -0.31,
       "rev_est": 116131080.0,
-      "implied_pct": 66.7,
-      "price": 5.02,
+      "implied_pct": 63.9,
+      "price": 5.24,
       "implied_dollar": 3.35
+    },
+    {
+      "symbol": "CASY",
+      "company": "Casey's General Stores, Inc.",
+      "date": "2026-03-09",
+      "time": "AMC",
+      "eps_est": 2.99,
+      "rev_est": 4163287957.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
     },
     {
       "symbol": "ZVRA",
@@ -2660,8 +2990,8 @@
       "eps_est": 0.05,
       "rev_est": 28611897.0,
       "implied_pct": 12.3,
-      "price": 8.93,
-      "implied_dollar": 1.1
+      "price": 9.09,
+      "implied_dollar": 1.12
     },
     {
       "symbol": "SNCR",
@@ -2678,12 +3008,12 @@
       "symbol": "HRTG",
       "company": "Heritage Insurance Holdings, Inc.",
       "date": "2026-03-09",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": 1.38,
       "rev_est": 216852000.0,
-      "implied_pct": 17.0,
-      "price": 27.87,
-      "implied_dollar": 4.74
+      "implied_pct": 17.3,
+      "price": 28.83,
+      "implied_dollar": 4.99
     },
     {
       "symbol": "SST",
@@ -2703,8 +3033,8 @@
       "time": "AMC",
       "eps_est": 0.17,
       "rev_est": 218627310.0,
-      "implied_pct": 24.8,
-      "price": 2.02,
+      "implied_pct": 25.0,
+      "price": 2.0,
       "implied_dollar": 0.5
     },
     {
@@ -2714,8 +3044,8 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 35700000.0,
-      "implied_pct": 31.9,
-      "price": 2.76,
+      "implied_pct": 32.5,
+      "price": 2.71,
       "implied_dollar": 0.88
     },
     {
@@ -2736,8 +3066,8 @@
       "time": "AMC",
       "eps_est": -0.66,
       "rev_est": 0.0,
-      "implied_pct": 119.0,
-      "price": 3.99,
+      "implied_pct": 119.9,
+      "price": 3.96,
       "implied_dollar": 4.75
     },
     {
@@ -2747,9 +3077,9 @@
       "time": "AMC",
       "eps_est": -0.52,
       "rev_est": 10698351.0,
-      "implied_pct": 48.8,
-      "price": 4.1,
-      "implied_dollar": 2.0
+      "implied_pct": 45.8,
+      "price": 4.15,
+      "implied_dollar": 1.9
     },
     {
       "symbol": "NINE",
@@ -2791,9 +3121,9 @@
       "time": "AMC",
       "eps_est": -0.12,
       "rev_est": 229500.0,
-      "implied_pct": 22.0,
-      "price": 9.38,
-      "implied_dollar": 2.06
+      "implied_pct": 23.4,
+      "price": 9.51,
+      "implied_dollar": 2.23
     },
     {
       "symbol": "GLRE",
@@ -2802,8 +3132,8 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 3.9,
-      "price": 14.19,
+      "implied_pct": 3.8,
+      "price": 14.35,
       "implied_dollar": 0.55
     },
     {
@@ -2813,9 +3143,9 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 11.7,
-      "price": 7.08,
-      "implied_dollar": 0.83
+      "implied_pct": 12.4,
+      "price": 7.1,
+      "implied_dollar": 0.88
     },
     {
       "symbol": "NL",
@@ -2835,9 +3165,9 @@
       "time": "AMC",
       "eps_est": -0.2,
       "rev_est": 0.0,
-      "implied_pct": 46.7,
-      "price": 7.15,
-      "implied_dollar": 3.34
+      "implied_pct": 60.1,
+      "price": 7.07,
+      "implied_dollar": 4.25
     },
     {
       "symbol": "DOUG",
@@ -2846,31 +3176,31 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 299854500.0,
-      "implied_pct": 18.4,
-      "price": 2.28,
+      "implied_pct": 18.3,
+      "price": 2.3,
       "implied_dollar": 0.42
     },
     {
       "symbol": "NPWR",
       "company": "NET Power Inc.",
       "date": "2026-03-09",
-      "time": "BMO",
+      "time": "AMC",
       "eps_est": -0.09,
       "rev_est": 0.0,
-      "implied_pct": 10.4,
-      "price": 1.93,
+      "implied_pct": 9.4,
+      "price": 2.12,
       "implied_dollar": 0.2
     },
     {
       "symbol": "SPRY",
       "company": "ARS Pharmaceuticals, Inc.",
       "date": "2026-03-09",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": -0.45,
       "rev_est": 26095170.0,
-      "implied_pct": 26.7,
-      "price": 9.3,
-      "implied_dollar": 2.48
+      "implied_pct": 24.5,
+      "price": 9.17,
+      "implied_dollar": 2.25
     },
     {
       "symbol": "ORCL",
@@ -2879,9 +3209,9 @@
       "time": "AMC",
       "eps_est": 1.74,
       "rev_est": 17242967532.0,
-      "implied_pct": 14.1,
-      "price": 145.4,
-      "implied_dollar": 20.5
+      "implied_pct": 13.6,
+      "price": 149.25,
+      "implied_dollar": 20.3
     },
     {
       "symbol": "CRBP",
@@ -2890,8 +3220,8 @@
       "time": "AMC",
       "eps_est": -1.61,
       "rev_est": 1700003.0,
-      "implied_pct": 22.2,
-      "price": 8.57,
+      "implied_pct": 22.8,
+      "price": 8.35,
       "implied_dollar": 1.9
     },
     {
@@ -2901,8 +3231,8 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 28891858.0,
-      "implied_pct": 48.4,
-      "price": 3.51,
+      "implied_pct": 48.6,
+      "price": 3.5,
       "implied_dollar": 1.7
     },
     {
@@ -2923,8 +3253,8 @@
       "time": "AMC",
       "eps_est": -0.33,
       "rev_est": 0.0,
-      "implied_pct": 38.9,
-      "price": 4.24,
+      "implied_pct": 38.5,
+      "price": 4.29,
       "implied_dollar": 1.65
     },
     {
@@ -2939,14 +3269,25 @@
       "implied_dollar": null
     },
     {
+      "symbol": "VOYG",
+      "company": "Voyager Technologies, Inc.",
+      "date": "2026-03-09",
+      "time": "AMC",
+      "eps_est": -0.56,
+      "rev_est": 49184400.0,
+      "implied_pct": 23.6,
+      "price": 28.11,
+      "implied_dollar": 6.63
+    },
+    {
       "symbol": "GNLX",
       "company": "Genelux Corporation",
       "date": "2026-03-09",
       "time": "BMO",
       "eps_est": -0.23,
       "rev_est": 0.0,
-      "implied_pct": 50.3,
-      "price": 2.98,
+      "implied_pct": 51.4,
+      "price": 2.92,
       "implied_dollar": 1.5
     },
     {
@@ -2956,9 +3297,20 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 55.5,
-      "price": 6.47,
+      "implied_pct": 54.8,
+      "price": 6.55,
       "implied_dollar": 3.59
+    },
+    {
+      "symbol": "BETA",
+      "company": "BETA Technologies, Inc.",
+      "date": "2026-03-09",
+      "time": "BMO",
+      "eps_est": -0.49,
+      "rev_est": 8016322.0,
+      "implied_pct": 18.1,
+      "price": 19.8,
+      "implied_dollar": 3.58
     },
     {
       "symbol": "KRO",
@@ -2967,8 +3319,8 @@
       "time": "AMC",
       "eps_est": -0.25,
       "rev_est": 376856755.0,
-      "implied_pct": 63.9,
-      "price": 5.81,
+      "implied_pct": 64.6,
+      "price": 5.74,
       "implied_dollar": 3.71
     },
     {
@@ -2989,9 +3341,9 @@
       "time": "BMO",
       "eps_est": -0.16,
       "rev_est": 0.0,
-      "implied_pct": 90.0,
-      "price": 3.0,
-      "implied_dollar": 2.7
+      "implied_pct": 87.9,
+      "price": 3.13,
+      "implied_dollar": 2.75
     },
     {
       "symbol": "LENZ",
@@ -3000,19 +3352,19 @@
       "time": "AMC",
       "eps_est": -0.99,
       "rev_est": 1923893.0,
-      "implied_pct": 19.6,
-      "price": 13.49,
-      "implied_dollar": 2.64
+      "implied_pct": 13.9,
+      "price": 13.68,
+      "implied_dollar": 1.9
     },
     {
       "symbol": "ACCO",
       "company": "ACCO Brands Corporation",
       "date": "2026-03-09",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": 0.38,
       "rev_est": 440571996.0,
-      "implied_pct": 47.9,
-      "price": 4.07,
+      "implied_pct": 48.0,
+      "price": 4.06,
       "implied_dollar": 1.95
     },
     {
@@ -3022,9 +3374,9 @@
       "time": "AMC",
       "eps_est": 1.16,
       "rev_est": 1106853000.0,
-      "implied_pct": 27.8,
-      "price": 26.95,
-      "implied_dollar": 7.49
+      "implied_pct": 27.2,
+      "price": 27.43,
+      "implied_dollar": 7.46
     },
     {
       "symbol": "AGEN",
@@ -3033,9 +3385,9 @@
       "time": "AMC",
       "eps_est": -1.06,
       "rev_est": 28220850.0,
-      "implied_pct": 21.6,
-      "price": 3.33,
-      "implied_dollar": 0.72
+      "implied_pct": 21.9,
+      "price": 3.34,
+      "implied_dollar": 0.73
     },
     {
       "symbol": "YEXT",
@@ -3044,9 +3396,9 @@
       "time": "AMC",
       "eps_est": 0.15,
       "rev_est": 115913483.0,
-      "implied_pct": 15.8,
-      "price": 5.68,
-      "implied_dollar": 0.9
+      "implied_pct": 15.7,
+      "price": 5.61,
+      "implied_dollar": 0.88
     },
     {
       "symbol": "DSGN",
@@ -3099,9 +3451,9 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 49544082.0,
-      "implied_pct": 26.2,
-      "price": 2.67,
-      "implied_dollar": 0.7
+      "implied_pct": 23.0,
+      "price": 2.91,
+      "implied_dollar": 0.67
     },
     {
       "symbol": "BZ",
@@ -3110,9 +3462,9 @@
       "time": "AMC",
       "eps_est": 1.99,
       "rev_est": 2125403846.0,
-      "implied_pct": 3.0,
-      "price": 16.08,
-      "implied_dollar": 0.48
+      "implied_pct": 3.3,
+      "price": 16.18,
+      "implied_dollar": 0.53
     },
     {
       "symbol": "MTN",
@@ -3121,9 +3473,9 @@
       "time": "AMC",
       "eps_est": 6.16,
       "rev_est": 1127502278.0,
-      "implied_pct": 11.0,
-      "price": 135.81,
-      "implied_dollar": 14.94
+      "implied_pct": 10.6,
+      "price": 134.92,
+      "implied_dollar": 14.3
     },
     {
       "symbol": "ATXS",
@@ -3143,9 +3495,9 @@
       "time": "AMC",
       "eps_est": -0.07,
       "rev_est": 192468963.0,
-      "implied_pct": 10.7,
-      "price": 5.21,
-      "implied_dollar": 0.56
+      "implied_pct": 20.9,
+      "price": 5.75,
+      "implied_dollar": 1.2
     },
     {
       "symbol": "SMSI",
@@ -3176,9 +3528,9 @@
       "time": "BMO",
       "eps_est": -0.67,
       "rev_est": 43066582.0,
-      "implied_pct": 21.7,
-      "price": 8.14,
-      "implied_dollar": 1.77
+      "implied_pct": 16.8,
+      "price": 8.33,
+      "implied_dollar": 1.4
     },
     {
       "symbol": "BTM",
@@ -3187,8 +3539,8 @@
       "time": "BMO",
       "eps_est": -0.47,
       "rev_est": 115073340.0,
-      "implied_pct": 51.3,
-      "price": 4.39,
+      "implied_pct": 46.8,
+      "price": 4.81,
       "implied_dollar": 2.25
     },
     {
@@ -3209,8 +3561,8 @@
       "time": "BMO",
       "eps_est": 0.02,
       "rev_est": 45672200.0,
-      "implied_pct": 39.1,
-      "price": 4.02,
+      "implied_pct": 39.0,
+      "price": 4.03,
       "implied_dollar": 1.57
     },
     {
@@ -3220,9 +3572,9 @@
       "time": "AMC",
       "eps_est": 0.19,
       "rev_est": 147662850.0,
-      "implied_pct": 10.1,
-      "price": 13.83,
-      "implied_dollar": 1.4
+      "implied_pct": 9.8,
+      "price": 14.35,
+      "implied_dollar": 1.41
     },
     {
       "symbol": "ENSC",
@@ -3253,9 +3605,9 @@
       "time": "AMC",
       "eps_est": 0.59,
       "rev_est": 9425728837.0,
-      "implied_pct": 12.5,
-      "price": 21.47,
-      "implied_dollar": 2.68
+      "implied_pct": 12.2,
+      "price": 22.13,
+      "implied_dollar": 2.7
     },
     {
       "symbol": "XLO",
@@ -3275,9 +3627,9 @@
       "time": "BMO",
       "eps_est": -0.31,
       "rev_est": 881635755.0,
-      "implied_pct": 14.9,
-      "price": 32.72,
-      "implied_dollar": 4.88
+      "implied_pct": 21.8,
+      "price": 32.29,
+      "implied_dollar": 7.04
     },
     {
       "symbol": "RDNW",
@@ -3286,8 +3638,8 @@
       "time": "AMC",
       "eps_est": -0.16,
       "rev_est": 272417183.0,
-      "implied_pct": 55.9,
-      "price": 6.48,
+      "implied_pct": 53.4,
+      "price": 6.78,
       "implied_dollar": 3.62
     },
     {
@@ -3297,6 +3649,17 @@
       "time": "AMC",
       "eps_est": -2.63,
       "rev_est": 765479000.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
+    },
+    {
+      "symbol": "CLPS",
+      "company": "CLPS Incorporation",
+      "date": "2026-03-06",
+      "time": "BMO",
+      "eps_est": null,
+      "rev_est": NaN,
       "implied_pct": null,
       "price": null,
       "implied_dollar": null
@@ -3330,9 +3693,9 @@
       "time": "BMO",
       "eps_est": 3.62,
       "rev_est": 798430755.0,
-      "implied_pct": 16.2,
-      "price": 27.24,
-      "implied_dollar": 4.41
+      "implied_pct": 16.8,
+      "price": 26.18,
+      "implied_dollar": 4.4
     },
     {
       "symbol": "AMPY",
@@ -3341,8 +3704,8 @@
       "time": "AMC",
       "eps_est": 0.12,
       "rev_est": 72486300.0,
-      "implied_pct": 32.9,
-      "price": 5.74,
+      "implied_pct": 32.0,
+      "price": 5.91,
       "implied_dollar": 1.89
     },
     {
@@ -3352,9 +3715,9 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 46902456.0,
-      "implied_pct": 76.4,
-      "price": 1.82,
-      "implied_dollar": 1.39
+      "implied_pct": 72.6,
+      "price": 1.9,
+      "implied_dollar": 1.38
     },
     {
       "symbol": "GOTU",
@@ -3363,8 +3726,8 @@
       "time": "BMO",
       "eps_est": -0.55,
       "rev_est": 1672794563.0,
-      "implied_pct": 64.4,
-      "price": 2.19,
+      "implied_pct": 65.0,
+      "price": 2.17,
       "implied_dollar": 1.41
     },
     {
@@ -3374,8 +3737,8 @@
       "time": "AMC",
       "eps_est": 0.04,
       "rev_est": NaN,
-      "implied_pct": 49.6,
-      "price": 0.97,
+      "implied_pct": 53.8,
+      "price": 0.89,
       "implied_dollar": 0.48
     },
     {
@@ -3385,9 +3748,9 @@
       "time": "BMO",
       "eps_est": 0.87,
       "rev_est": 394910000.0,
-      "implied_pct": 10.8,
-      "price": 31.02,
-      "implied_dollar": 3.35
+      "implied_pct": 9.0,
+      "price": 30.5,
+      "implied_dollar": 2.74
     },
     {
       "symbol": "KURA",
@@ -3396,9 +3759,9 @@
       "time": "BMO",
       "eps_est": -0.62,
       "rev_est": 54624927.0,
-      "implied_pct": 14.3,
-      "price": 8.73,
-      "implied_dollar": 1.25
+      "implied_pct": 15.0,
+      "price": 8.68,
+      "implied_dollar": 1.3
     },
     {
       "symbol": "AVIR",
@@ -3418,8 +3781,8 @@
       "time": "AMC",
       "eps_est": 0.09,
       "rev_est": 108035003.0,
-      "implied_pct": 72.3,
-      "price": 6.75,
+      "implied_pct": 71.4,
+      "price": 6.83,
       "implied_dollar": 4.88
     },
     {
@@ -3440,9 +3803,9 @@
       "time": "BMO",
       "eps_est": 0.77,
       "rev_est": 96085020.0,
-      "implied_pct": 8.8,
-      "price": 48.0,
-      "implied_dollar": 4.22
+      "implied_pct": 9.6,
+      "price": 47.46,
+      "implied_dollar": 4.56
     },
     {
       "symbol": "FIZZ",
@@ -3451,9 +3814,9 @@
       "time": "AMC",
       "eps_est": 0.45,
       "rev_est": 276481200.0,
-      "implied_pct": 6.4,
-      "price": 36.35,
-      "implied_dollar": 2.33
+      "implied_pct": 8.5,
+      "price": 36.9,
+      "implied_dollar": 3.14
     },
     {
       "symbol": "PKOH",
@@ -3473,9 +3836,9 @@
       "time": "BMO",
       "eps_est": -0.25,
       "rev_est": 717.0,
-      "implied_pct": 39.4,
-      "price": 4.31,
-      "implied_dollar": 1.7
+      "implied_pct": 38.5,
+      "price": 4.16,
+      "implied_dollar": 1.6
     },
     {
       "symbol": "OLPX",
@@ -3484,9 +3847,9 @@
       "time": "BMO",
       "eps_est": 0.01,
       "rev_est": 106590142.0,
-      "implied_pct": 49.7,
-      "price": 1.61,
-      "implied_dollar": 0.8
+      "implied_pct": 53.9,
+      "price": 1.52,
+      "implied_dollar": 0.82
     },
     {
       "symbol": "EVC",
@@ -3507,7 +3870,7 @@
       "eps_est": 0.54,
       "rev_est": 17985323.0,
       "implied_pct": 1.5,
-      "price": 11.25,
+      "price": 11.58,
       "implied_dollar": 0.17
     },
     {
@@ -3561,9 +3924,9 @@
       "time": "AMC",
       "eps_est": -0.06,
       "rev_est": 417922500.0,
-      "implied_pct": 24.6,
-      "price": 20.53,
-      "implied_dollar": 5.05
+      "implied_pct": 24.8,
+      "price": 20.33,
+      "implied_dollar": 5.04
     },
     {
       "symbol": "COO",
@@ -3572,19 +3935,19 @@
       "time": "AMC",
       "eps_est": 1.04,
       "rev_est": 1036697330.0,
-      "implied_pct": 9.9,
-      "price": 83.67,
-      "implied_dollar": 8.28
+      "implied_pct": 10.1,
+      "price": 83.92,
+      "implied_dollar": 8.48
     },
     {
       "symbol": "LXRX",
       "company": "Lexicon Pharmaceuticals, Inc.",
       "date": "2026-03-05",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": -0.07,
       "rev_est": 3204432.0,
-      "implied_pct": 70.1,
-      "price": 1.47,
+      "implied_pct": 66.0,
+      "price": 1.56,
       "implied_dollar": 1.03
     },
     {
@@ -3594,8 +3957,8 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 2628876.0,
-      "implied_pct": 64.6,
-      "price": 1.92,
+      "implied_pct": 63.6,
+      "price": 1.95,
       "implied_dollar": 1.24
     },
     {
@@ -3616,9 +3979,20 @@
       "time": "AMC",
       "eps_est": 0.18,
       "rev_est": 24522123.0,
-      "implied_pct": 3.0,
-      "price": 23.49,
-      "implied_dollar": 0.7
+      "implied_pct": 2.9,
+      "price": 23.75,
+      "implied_dollar": 0.69
+    },
+    {
+      "symbol": "BAER",
+      "company": "Bridger Aerospace Group Holdings, Inc.",
+      "date": "2026-03-05",
+      "time": "AMC",
+      "eps_est": -0.31,
+      "rev_est": 6630000.0,
+      "implied_pct": null,
+      "price": null,
+      "implied_dollar": null
     },
     {
       "symbol": "AMBQ",
@@ -3638,9 +4012,9 @@
       "time": "AMC",
       "eps_est": -0.33,
       "rev_est": 510408.0,
-      "implied_pct": 22.0,
-      "price": 11.14,
-      "implied_dollar": 2.45
+      "implied_pct": 21.2,
+      "price": 11.53,
+      "implied_dollar": 2.44
     },
     {
       "symbol": "XOMA",
@@ -3649,9 +4023,9 @@
       "time": "BMO",
       "eps_est": -0.15,
       "rev_est": 11270388.0,
-      "implied_pct": 26.2,
-      "price": 25.53,
-      "implied_dollar": 6.69
+      "implied_pct": 25.6,
+      "price": 26.21,
+      "implied_dollar": 6.71
     },
     {
       "symbol": "PMTS",
@@ -3671,8 +4045,8 @@
       "time": "AMC",
       "eps_est": -0.2,
       "rev_est": 121288200.0,
-      "implied_pct": 35.2,
-      "price": 0.71,
+      "implied_pct": 35.5,
+      "price": 0.7,
       "implied_dollar": 0.25
     },
     {
@@ -3693,8 +4067,8 @@
       "time": "BMO",
       "eps_est": -0.12,
       "rev_est": 362603115.0,
-      "implied_pct": 40.9,
-      "price": 0.86,
+      "implied_pct": 41.9,
+      "price": 0.83,
       "implied_dollar": 0.35
     },
     {
@@ -3704,8 +4078,8 @@
       "time": "AMC",
       "eps_est": 0.1,
       "rev_est": 700563744.0,
-      "implied_pct": 46.4,
-      "price": 10.53,
+      "implied_pct": 45.1,
+      "price": 10.85,
       "implied_dollar": 4.89
     },
     {
@@ -3715,8 +4089,8 @@
       "time": "BMO",
       "eps_est": -0.04,
       "rev_est": 115079796.0,
-      "implied_pct": 19.5,
-      "price": 5.12,
+      "implied_pct": 19.6,
+      "price": 5.09,
       "implied_dollar": 1.0
     },
     {
@@ -3727,14 +4101,14 @@
       "eps_est": 2.75,
       "rev_est": 1550542188.0,
       "implied_pct": 12.5,
-      "price": 19.18,
+      "price": 19.16,
       "implied_dollar": 2.4
     },
     {
       "symbol": "ALGS",
       "company": "Aligos Therapeutics, Inc.",
       "date": "2026-03-05",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": -1.89,
       "rev_est": 816000.0,
       "implied_pct": null,
@@ -3748,9 +4122,9 @@
       "time": "AMC",
       "eps_est": 0.8,
       "rev_est": 2248633921.0,
-      "implied_pct": 11.6,
-      "price": 81.69,
-      "implied_dollar": 9.48
+      "implied_pct": 10.9,
+      "price": 80.86,
+      "implied_dollar": 8.81
     },
     {
       "symbol": "FLYX",
@@ -3778,7 +4152,7 @@
       "symbol": "FTCI",
       "company": "FTC Solar, Inc.",
       "date": "2026-03-05",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": -0.22,
       "rev_est": 33256080.0,
       "implied_pct": null,
@@ -3792,9 +4166,9 @@
       "time": "AMC",
       "eps_est": -0.13,
       "rev_est": 0.0,
-      "implied_pct": 25.3,
-      "price": 7.76,
-      "implied_dollar": 1.96
+      "implied_pct": 20.2,
+      "price": 7.63,
+      "implied_dollar": 1.54
     },
     {
       "symbol": "ALNT",
@@ -3803,9 +4177,9 @@
       "time": "AMC",
       "eps_est": 0.45,
       "rev_est": 136004148.0,
-      "implied_pct": 14.0,
-      "price": 65.84,
-      "implied_dollar": 9.22
+      "implied_pct": 12.0,
+      "price": 65.25,
+      "implied_dollar": 7.83
     },
     {
       "symbol": "BBCP",
@@ -3814,8 +4188,8 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 86513003.0,
-      "implied_pct": 68.0,
-      "price": 6.74,
+      "implied_pct": 66.9,
+      "price": 6.85,
       "implied_dollar": 4.58
     },
     {
@@ -3825,8 +4199,8 @@
       "time": "AMC",
       "eps_est": 0.2,
       "rev_est": 101699100.0,
-      "implied_pct": 14.9,
-      "price": 7.8,
+      "implied_pct": 15.0,
+      "price": 7.75,
       "implied_dollar": 1.16
     },
     {
@@ -3836,9 +4210,9 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 125442000.0,
-      "implied_pct": 27.2,
-      "price": 2.65,
-      "implied_dollar": 0.72
+      "implied_pct": 15.0,
+      "price": 3.0,
+      "implied_dollar": 0.45
     },
     {
       "symbol": "COOK",
@@ -3847,8 +4221,8 @@
       "time": "AMC",
       "eps_est": 0.0,
       "rev_est": 137756100.0,
-      "implied_pct": 29.1,
-      "price": 0.86,
+      "implied_pct": 30.2,
+      "price": 0.83,
       "implied_dollar": 0.25
     },
     {
@@ -3858,9 +4232,9 @@
       "time": "BMO",
       "eps_est": 1.84,
       "rev_est": 8295515251.0,
-      "implied_pct": 9.3,
-      "price": 27.9,
-      "implied_dollar": 2.59
+      "implied_pct": 15.6,
+      "price": 27.23,
+      "implied_dollar": 4.25
     },
     {
       "symbol": "TOUR",
@@ -3880,8 +4254,8 @@
       "time": "BMO",
       "eps_est": -0.98,
       "rev_est": 37292475.0,
-      "implied_pct": 19.4,
-      "price": 9.04,
+      "implied_pct": 18.9,
+      "price": 9.24,
       "implied_dollar": 1.75
     },
     {
@@ -3891,9 +4265,9 @@
       "time": "AMC",
       "eps_est": -0.13,
       "rev_est": 36537760.0,
-      "implied_pct": 15.3,
-      "price": 2.49,
-      "implied_dollar": 0.38
+      "implied_pct": 16.3,
+      "price": 2.52,
+      "implied_dollar": 0.41
     },
     {
       "symbol": "GWRS",
@@ -3902,8 +4276,8 @@
       "time": "BMO",
       "eps_est": 0.02,
       "rev_est": 14025000.0,
-      "implied_pct": 26.2,
-      "price": 9.16,
+      "implied_pct": 26.3,
+      "price": 9.11,
       "implied_dollar": 2.4
     },
     {
@@ -3914,7 +4288,7 @@
       "eps_est": 2.47,
       "rev_est": 186852020.0,
       "implied_pct": 9.8,
-      "price": 41.08,
+      "price": 41.1,
       "implied_dollar": 4.03
     },
     {
@@ -3924,8 +4298,8 @@
       "time": "AMC",
       "eps_est": 0.09,
       "rev_est": 70045848.0,
-      "implied_pct": 5.1,
-      "price": 3.16,
+      "implied_pct": 4.9,
+      "price": 3.26,
       "implied_dollar": 0.16
     },
     {
@@ -3935,15 +4309,15 @@
       "time": "AMC",
       "eps_est": 0.79,
       "rev_est": 348579614.0,
-      "implied_pct": 16.2,
-      "price": 145.32,
-      "implied_dollar": 23.54
+      "implied_pct": 15.9,
+      "price": 149.01,
+      "implied_dollar": 23.69
     },
     {
       "symbol": "DTI",
       "company": "Drilling Tools International Corporation",
       "date": "2026-03-05",
-      "time": "BMO",
+      "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 38009330.0,
       "implied_pct": null,
@@ -3968,9 +4342,9 @@
       "time": "AMC",
       "eps_est": 0.13,
       "rev_est": 426481408.0,
-      "implied_pct": 14.9,
-      "price": 28.9,
-      "implied_dollar": 4.31
+      "implied_pct": 13.8,
+      "price": 29.11,
+      "implied_dollar": 4.02
     },
     {
       "symbol": "CMCT",
@@ -3990,8 +4364,8 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 10707552.0,
-      "implied_pct": 138.6,
-      "price": 6.82,
+      "implied_pct": 134.2,
+      "price": 7.04,
       "implied_dollar": 9.45
     },
     {
@@ -4001,9 +4375,9 @@
       "time": "AMC",
       "eps_est": -0.23,
       "rev_est": 77065626.0,
-      "implied_pct": 30.7,
-      "price": 2.25,
-      "implied_dollar": 0.69
+      "implied_pct": 29.9,
+      "price": 2.24,
+      "implied_dollar": 0.67
     },
     {
       "symbol": "EVGN",
@@ -4023,8 +4397,8 @@
       "time": "BMO",
       "eps_est": -0.64,
       "rev_est": 6233424.0,
-      "implied_pct": 34.9,
-      "price": 17.3,
+      "implied_pct": 34.7,
+      "price": 17.41,
       "implied_dollar": 6.04
     },
     {
@@ -4034,9 +4408,9 @@
       "time": "BMO",
       "eps_est": 0.18,
       "rev_est": 85306680.0,
-      "implied_pct": 20.6,
-      "price": 31.02,
-      "implied_dollar": 6.39
+      "implied_pct": 19.0,
+      "price": 30.94,
+      "implied_dollar": 5.88
     },
     {
       "symbol": "III",
@@ -4045,8 +4419,8 @@
       "time": "AMC",
       "eps_est": 0.08,
       "rev_est": 61878862.0,
-      "implied_pct": 44.7,
-      "price": 4.81,
+      "implied_pct": 44.4,
+      "price": 4.84,
       "implied_dollar": 2.15
     },
     {
@@ -4067,9 +4441,20 @@
       "time": "BMO",
       "eps_est": 0.06,
       "rev_est": 142104360.0,
-      "implied_pct": 28.6,
-      "price": 9.63,
-      "implied_dollar": 2.75
+      "implied_pct": 22.8,
+      "price": 9.67,
+      "implied_dollar": 2.2
+    },
+    {
+      "symbol": "LWLG",
+      "company": "Lightwave Logic, Inc.",
+      "date": "2026-03-05",
+      "time": "BMO",
+      "eps_est": null,
+      "rev_est": NaN,
+      "implied_pct": 41.2,
+      "price": 5.05,
+      "implied_dollar": 2.08
     },
     {
       "symbol": "DSGR",
@@ -4090,7 +4475,7 @@
       "eps_est": 0.22,
       "rev_est": 156395470.0,
       "implied_pct": 21.1,
-      "price": 8.78,
+      "price": 8.77,
       "implied_dollar": 1.85
     },
     {
@@ -4100,9 +4485,9 @@
       "time": "AMC",
       "eps_est": -0.09,
       "rev_est": 43758000.0,
-      "implied_pct": 78.7,
-      "price": 1.41,
-      "implied_dollar": 1.11
+      "implied_pct": 82.9,
+      "price": 1.4,
+      "implied_dollar": 1.16
     },
     {
       "symbol": "GRNT",
@@ -4111,8 +4496,8 @@
       "time": "AMC",
       "eps_est": 0.1,
       "rev_est": 126808950.0,
-      "implied_pct": 19.8,
-      "price": 5.06,
+      "implied_pct": 19.5,
+      "price": 5.13,
       "implied_dollar": 1.0
     },
     {
@@ -4122,9 +4507,9 @@
       "time": "AMC",
       "eps_est": 0.0,
       "rev_est": 265883400.0,
-      "implied_pct": 48.8,
-      "price": 5.0,
-      "implied_dollar": 2.44
+      "implied_pct": 51.6,
+      "price": 4.69,
+      "implied_dollar": 2.42
     },
     {
       "symbol": "OPRX",
@@ -4133,19 +4518,19 @@
       "time": "AMC",
       "eps_est": 0.23,
       "rev_est": 31722336.0,
-      "implied_pct": 26.4,
-      "price": 7.58,
-      "implied_dollar": 2.0
+      "implied_pct": 100.1,
+      "price": 7.39,
+      "implied_dollar": 7.4
     },
     {
       "symbol": "PDYN",
       "company": "Palladyne AI Corp.",
       "date": "2026-03-05",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": -0.14,
       "rev_est": 825180.0,
-      "implied_pct": 64.0,
-      "price": 7.03,
+      "implied_pct": 60.2,
+      "price": 7.47,
       "implied_dollar": 4.5
     },
     {
@@ -4155,9 +4540,9 @@
       "time": "AMC",
       "eps_est": 4.65,
       "rev_est": 70605300660.0,
-      "implied_pct": 3.9,
-      "price": 1010.79,
-      "implied_dollar": 39.42
+      "implied_pct": 3.6,
+      "price": 1002.77,
+      "implied_dollar": 36.1
     },
     {
       "symbol": "OMDA",
@@ -4166,9 +4551,9 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 71064868.0,
-      "implied_pct": 44.6,
-      "price": 12.28,
-      "implied_dollar": 5.48
+      "implied_pct": 19.8,
+      "price": 12.9,
+      "implied_dollar": 2.55
     },
     {
       "symbol": "SWBI",
@@ -4177,8 +4562,8 @@
       "time": "AMC",
       "eps_est": 0.05,
       "rev_est": 128099250.0,
-      "implied_pct": 32.6,
-      "price": 11.9,
+      "implied_pct": 32.2,
+      "price": 12.04,
       "implied_dollar": 3.88
     },
     {
@@ -4188,9 +4573,9 @@
       "time": "BMO",
       "eps_est": 1.19,
       "rev_est": 1423539968.0,
-      "implied_pct": 15.2,
-      "price": 348.7,
-      "implied_dollar": 53.0
+      "implied_pct": 14.3,
+      "price": 353.73,
+      "implied_dollar": 50.58
     },
     {
       "symbol": "BRLT",
@@ -4199,9 +4584,9 @@
       "time": "BMO",
       "eps_est": 0.02,
       "rev_est": 128120496.0,
-      "implied_pct": 67.7,
-      "price": 1.55,
-      "implied_dollar": 1.05
+      "implied_pct": 67.3,
+      "price": 1.53,
+      "implied_dollar": 1.03
     },
     {
       "symbol": "KINS",
@@ -4210,9 +4595,9 @@
       "time": "AMC",
       "eps_est": 1.07,
       "rev_est": 70380000.0,
-      "implied_pct": 12.0,
-      "price": 16.48,
-      "implied_dollar": 1.98
+      "implied_pct": 13.1,
+      "price": 16.53,
+      "implied_dollar": 2.17
     },
     {
       "symbol": "CSTE",
@@ -4221,9 +4606,9 @@
       "time": "BMO",
       "eps_est": -0.39,
       "rev_est": 95574000.0,
-      "implied_pct": 29.2,
-      "price": 1.37,
-      "implied_dollar": 0.4
+      "implied_pct": 23.8,
+      "price": 1.47,
+      "implied_dollar": 0.35
     },
     {
       "symbol": "ATNI",
@@ -4243,9 +4628,9 @@
       "time": "AMC",
       "eps_est": 0.27,
       "rev_est": 130003590.0,
-      "implied_pct": 16.3,
-      "price": 33.54,
-      "implied_dollar": 5.47
+      "implied_pct": 16.5,
+      "price": 33.24,
+      "implied_dollar": 5.48
     },
     {
       "symbol": "DLNG",
@@ -4265,9 +4650,9 @@
       "time": "AMC",
       "eps_est": 0.02,
       "rev_est": 32339100.0,
-      "implied_pct": 13.9,
-      "price": 5.05,
-      "implied_dollar": 0.7
+      "implied_pct": 13.0,
+      "price": 4.99,
+      "implied_dollar": 0.65
     },
     {
       "symbol": "NXTC",
@@ -4287,8 +4672,8 @@
       "time": "AMC",
       "eps_est": 0.35,
       "rev_est": 1663799428.0,
-      "implied_pct": 26.3,
-      "price": 9.39,
+      "implied_pct": 26.1,
+      "price": 9.48,
       "implied_dollar": 2.47
     },
     {
@@ -4309,8 +4694,8 @@
       "time": "BMO",
       "eps_est": 0.1,
       "rev_est": 99189900.0,
-      "implied_pct": 47.4,
-      "price": 4.45,
+      "implied_pct": 45.7,
+      "price": 4.62,
       "implied_dollar": 2.11
     },
     {
@@ -4342,8 +4727,8 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 54.9,
-      "price": 1.64,
+      "implied_pct": 56.2,
+      "price": 1.6,
       "implied_dollar": 0.9
     },
     {
@@ -4353,9 +4738,9 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 239526600.0,
-      "implied_pct": 23.7,
-      "price": 2.28,
-      "implied_dollar": 0.54
+      "implied_pct": 27.8,
+      "price": 2.52,
+      "implied_dollar": 0.7
     },
     {
       "symbol": "MG",
@@ -4365,8 +4750,8 @@
       "eps_est": 0.22,
       "rev_est": 181813025.0,
       "implied_pct": 18.3,
-      "price": 15.28,
-      "implied_dollar": 2.8
+      "price": 15.27,
+      "implied_dollar": 2.79
     },
     {
       "symbol": "LUNG",
@@ -4375,8 +4760,8 @@
       "time": "AMC",
       "eps_est": -0.4,
       "rev_est": 22162896.0,
-      "implied_pct": 53.8,
-      "price": 1.58,
+      "implied_pct": 55.7,
+      "price": 1.52,
       "implied_dollar": 0.85
     },
     {
@@ -4386,9 +4771,9 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 6709763.0,
-      "implied_pct": 70.7,
-      "price": 1.64,
-      "implied_dollar": 1.16
+      "implied_pct": 75.9,
+      "price": 1.66,
+      "implied_dollar": 1.26
     },
     {
       "symbol": "VEEV",
@@ -4397,9 +4782,9 @@
       "time": "AMC",
       "eps_est": 1.97,
       "rev_est": 826827748.0,
-      "implied_pct": 12.3,
-      "price": 182.01,
-      "implied_dollar": 22.39
+      "implied_pct": 12.7,
+      "price": 181.45,
+      "implied_dollar": 23.04
     },
     {
       "symbol": "TPVG",
@@ -4408,8 +4793,8 @@
       "time": "AMC",
       "eps_est": 0.27,
       "rev_est": 24583428.0,
-      "implied_pct": 59.9,
-      "price": 5.19,
+      "implied_pct": 59.0,
+      "price": 5.27,
       "implied_dollar": 3.11
     },
     {
@@ -4419,9 +4804,9 @@
       "time": "AMC",
       "eps_est": 0.04,
       "rev_est": 159256680.0,
-      "implied_pct": 59.2,
-      "price": 5.81,
-      "implied_dollar": 3.44
+      "implied_pct": 57.3,
+      "price": 6.04,
+      "implied_dollar": 3.46
     },
     {
       "symbol": "GMS",
@@ -4452,9 +4837,9 @@
       "time": "AMC",
       "eps_est": 0.04,
       "rev_est": 76305500.0,
-      "implied_pct": 66.0,
-      "price": 1.41,
-      "implied_dollar": 0.93
+      "implied_pct": 72.8,
+      "price": 1.51,
+      "implied_dollar": 1.1
     },
     {
       "symbol": "STUB",
@@ -4463,9 +4848,9 @@
       "time": "AMC",
       "eps_est": -0.02,
       "rev_est": 498814476.0,
-      "implied_pct": 21.1,
-      "price": 9.57,
-      "implied_dollar": 2.02
+      "implied_pct": 20.0,
+      "price": 9.86,
+      "implied_dollar": 1.97
     },
     {
       "symbol": "STVN",
@@ -4474,9 +4859,9 @@
       "time": "BMO",
       "eps_est": 0.17,
       "rev_est": 339670424.0,
-      "implied_pct": 23.2,
-      "price": 15.52,
-      "implied_dollar": 3.6
+      "implied_pct": 20.8,
+      "price": 15.09,
+      "implied_dollar": 3.14
     },
     {
       "symbol": "PAGS",
@@ -4485,9 +4870,9 @@
       "time": "AMC",
       "eps_est": 2.29,
       "rev_est": 5630619300.0,
-      "implied_pct": 17.2,
-      "price": 10.61,
-      "implied_dollar": 1.82
+      "implied_pct": 16.7,
+      "price": 10.73,
+      "implied_dollar": 1.79
     },
     {
       "symbol": "SAMG",
@@ -4518,9 +4903,9 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 2385372.0,
-      "implied_pct": 24.7,
-      "price": 17.42,
-      "implied_dollar": 4.3
+      "implied_pct": 12.5,
+      "price": 17.69,
+      "implied_dollar": 2.21
     },
     {
       "symbol": "XTNT",
@@ -4551,8 +4936,8 @@
       "time": "BMO",
       "eps_est": -0.76,
       "rev_est": 1030200.0,
-      "implied_pct": 35.1,
-      "price": 17.56,
+      "implied_pct": 33.6,
+      "price": 18.34,
       "implied_dollar": 6.16
     },
     {
@@ -4562,8 +4947,8 @@
       "time": "AMC",
       "eps_est": -0.51,
       "rev_est": 0.0,
-      "implied_pct": 51.7,
-      "price": 6.21,
+      "implied_pct": 51.8,
+      "price": 6.2,
       "implied_dollar": 3.21
     },
     {
@@ -4573,9 +4958,9 @@
       "time": "AMC",
       "eps_est": -0.13,
       "rev_est": 329460.0,
-      "implied_pct": 24.2,
-      "price": 3.1,
-      "implied_dollar": 0.75
+      "implied_pct": 24.1,
+      "price": 3.15,
+      "implied_dollar": 0.76
     },
     {
       "symbol": "DAKT",
@@ -4584,9 +4969,9 @@
       "time": "BMO",
       "eps_est": 0.13,
       "rev_est": 184620000.0,
-      "implied_pct": 24.2,
-      "price": 25.78,
-      "implied_dollar": 6.24
+      "implied_pct": 26.5,
+      "price": 26.57,
+      "implied_dollar": 7.04
     },
     {
       "symbol": "OTCM",
@@ -4617,9 +5002,9 @@
       "time": "BMO",
       "eps_est": 0.03,
       "rev_est": 238939834.0,
-      "implied_pct": 20.1,
-      "price": 6.21,
-      "implied_dollar": 1.25
+      "implied_pct": 21.7,
+      "price": 6.37,
+      "implied_dollar": 1.38
     },
     {
       "symbol": "BDTX",
@@ -4628,8 +5013,8 @@
       "time": "AMC",
       "eps_est": -0.19,
       "rev_est": 0.0,
-      "implied_pct": 101.2,
-      "price": 2.47,
+      "implied_pct": 102.9,
+      "price": 2.43,
       "implied_dollar": 2.5
     },
     {
@@ -4661,9 +5046,9 @@
       "time": "BMO",
       "eps_est": 0.17,
       "rev_est": 109820003.0,
-      "implied_pct": 67.8,
-      "price": 1.77,
-      "implied_dollar": 1.2
+      "implied_pct": 75.1,
+      "price": 1.93,
+      "implied_dollar": 1.45
     },
     {
       "symbol": "TCRX",
@@ -4683,8 +5068,8 @@
       "time": "BMO",
       "eps_est": -0.06,
       "rev_est": 877200.0,
-      "implied_pct": 72.0,
-      "price": 1.82,
+      "implied_pct": 67.5,
+      "price": 1.94,
       "implied_dollar": 1.31
     },
     {
@@ -4727,9 +5112,9 @@
       "time": "AMC",
       "eps_est": 0.86,
       "rev_est": 763767370.0,
-      "implied_pct": 13.2,
-      "price": 72.5,
-      "implied_dollar": 9.57
+      "implied_pct": 11.3,
+      "price": 73.97,
+      "implied_dollar": 8.36
     },
     {
       "symbol": "VSTM",
@@ -4738,8 +5123,8 @@
       "time": "AMC",
       "eps_est": -0.54,
       "rev_est": 15995752.0,
-      "implied_pct": 49.0,
-      "price": 5.72,
+      "implied_pct": 48.1,
+      "price": 5.82,
       "implied_dollar": 2.8
     },
     {
@@ -4749,8 +5134,8 @@
       "time": "AMC",
       "eps_est": 0.31,
       "rev_est": 73999643.0,
-      "implied_pct": 20.0,
-      "price": 12.36,
+      "implied_pct": 19.8,
+      "price": 12.47,
       "implied_dollar": 2.47
     },
     {
@@ -4771,8 +5156,8 @@
       "time": "AMC",
       "eps_est": -0.14,
       "rev_est": 13549904.0,
-      "implied_pct": 28.8,
-      "price": 4.0,
+      "implied_pct": 27.3,
+      "price": 4.21,
       "implied_dollar": 1.15
     },
     {
@@ -4793,9 +5178,9 @@
       "time": "AMC",
       "eps_est": -0.07,
       "rev_est": 55539255.0,
-      "implied_pct": 77.5,
-      "price": 0.86,
-      "implied_dollar": 0.67
+      "implied_pct": 70.0,
+      "price": 0.83,
+      "implied_dollar": 0.58
     },
     {
       "symbol": "CTMX",
@@ -4804,8 +5189,8 @@
       "time": "AMC",
       "eps_est": -0.1,
       "rev_est": 8058000.0,
-      "implied_pct": 63.3,
-      "price": 5.37,
+      "implied_pct": 63.7,
+      "price": 5.34,
       "implied_dollar": 3.4
     },
     {
@@ -4815,9 +5200,9 @@
       "time": "AMC",
       "eps_est": 1.08,
       "rev_est": 110313000.0,
-      "implied_pct": 17.6,
-      "price": 28.84,
-      "implied_dollar": 5.08
+      "implied_pct": 18.2,
+      "price": 29.45,
+      "implied_dollar": 5.36
     },
     {
       "symbol": "NC",
@@ -4848,9 +5233,9 @@
       "time": "AMC",
       "eps_est": -0.05,
       "rev_est": 3060000.0,
-      "implied_pct": 52.5,
-      "price": 0.78,
-      "implied_dollar": 0.41
+      "implied_pct": 50.1,
+      "price": 0.8,
+      "implied_dollar": 0.4
     },
     {
       "symbol": "AFCG",
@@ -4859,9 +5244,9 @@
       "time": "BMO",
       "eps_est": 0.03,
       "rev_est": 5940143.0,
-      "implied_pct": 28.5,
-      "price": 2.28,
-      "implied_dollar": 0.65
+      "implied_pct": 28.4,
+      "price": 2.32,
+      "implied_dollar": 0.66
     },
     {
       "symbol": "SYBX",
@@ -4881,9 +5266,9 @@
       "time": "AMC",
       "eps_est": -2.39,
       "rev_est": 39055800.0,
-      "implied_pct": 15.2,
-      "price": 10.51,
-      "implied_dollar": 1.6
+      "implied_pct": 16.1,
+      "price": 10.07,
+      "implied_dollar": 1.62
     },
     {
       "symbol": "SGHT",
@@ -4903,8 +5288,8 @@
       "time": "AMC",
       "eps_est": -2.86,
       "rev_est": 0.0,
-      "implied_pct": 50.3,
-      "price": 7.25,
+      "implied_pct": 50.1,
+      "price": 7.29,
       "implied_dollar": 3.65
     },
     {
@@ -4925,8 +5310,8 @@
       "time": "AMC",
       "eps_est": -0.83,
       "rev_est": 29694000.0,
-      "implied_pct": 17.9,
-      "price": 23.36,
+      "implied_pct": 18.1,
+      "price": 23.08,
       "implied_dollar": 4.18
     },
     {
@@ -4936,9 +5321,9 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 15.8,
-      "price": 2.84,
-      "implied_dollar": 0.45
+      "implied_pct": 16.6,
+      "price": 2.83,
+      "implied_dollar": 0.47
     },
     {
       "symbol": "CCRN",
@@ -4947,9 +5332,9 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 259375290.0,
-      "implied_pct": 21.1,
-      "price": 8.7,
-      "implied_dollar": 1.84
+      "implied_pct": 22.5,
+      "price": 8.83,
+      "implied_dollar": 1.99
     },
     {
       "symbol": "AMPX",
@@ -4958,9 +5343,9 @@
       "time": "BMO",
       "eps_est": -0.04,
       "rev_est": 23432082.0,
-      "implied_pct": 29.2,
-      "price": 10.73,
-      "implied_dollar": 3.13
+      "implied_pct": 26.3,
+      "price": 11.59,
+      "implied_dollar": 3.05
     },
     {
       "symbol": "IGMS",
@@ -4980,9 +5365,9 @@
       "time": "AMC",
       "eps_est": 0.12,
       "rev_est": 14739000.0,
-      "implied_pct": 36.4,
-      "price": 10.8,
-      "implied_dollar": 3.93
+      "implied_pct": 29.9,
+      "price": 11.39,
+      "implied_dollar": 3.41
     },
     {
       "symbol": "CHPT",
@@ -4991,9 +5376,9 @@
       "time": "AMC",
       "eps_est": -1.11,
       "rev_est": 106789287.0,
-      "implied_pct": 14.6,
-      "price": 6.3,
-      "implied_dollar": 0.92
+      "implied_pct": 14.2,
+      "price": 6.43,
+      "implied_dollar": 0.91
     },
     {
       "symbol": "EHAB",
@@ -5003,7 +5388,7 @@
       "eps_est": 0.14,
       "rev_est": 275968650.0,
       "implied_pct": 8.8,
-      "price": 13.61,
+      "price": 13.58,
       "implied_dollar": 1.2
     },
     {
@@ -5013,8 +5398,8 @@
       "time": "AMC",
       "eps_est": -0.25,
       "rev_est": 9689775.0,
-      "implied_pct": 59.0,
-      "price": 5.68,
+      "implied_pct": 58.2,
+      "price": 5.76,
       "implied_dollar": 3.35
     },
     {
@@ -5035,8 +5420,8 @@
       "time": "BMO",
       "eps_est": 0.08,
       "rev_est": 145993477.0,
-      "implied_pct": 48.8,
-      "price": 4.08,
+      "implied_pct": 49.5,
+      "price": 4.02,
       "implied_dollar": 1.99
     },
     {
@@ -5046,9 +5431,9 @@
       "time": "AMC",
       "eps_est": 0.33,
       "rev_est": 65902500.0,
-      "implied_pct": 13.3,
-      "price": 36.97,
-      "implied_dollar": 4.92
+      "implied_pct": 17.6,
+      "price": 36.09,
+      "implied_dollar": 6.35
     },
     {
       "symbol": "TOVX",
@@ -5068,9 +5453,9 @@
       "time": "BMO",
       "eps_est": 0.06,
       "rev_est": 500269160.0,
-      "implied_pct": 13.1,
-      "price": 26.97,
-      "implied_dollar": 3.53
+      "implied_pct": 14.1,
+      "price": 26.93,
+      "implied_dollar": 3.8
     },
     {
       "symbol": "REAX",
@@ -5079,9 +5464,9 @@
       "time": "BMO",
       "eps_est": -0.03,
       "rev_est": 484272540.0,
-      "implied_pct": 21.1,
+      "implied_pct": 19.2,
       "price": 2.65,
-      "implied_dollar": 0.56
+      "implied_dollar": 0.51
     },
     {
       "symbol": "DY",
@@ -5090,9 +5475,9 @@
       "time": "BMO",
       "eps_est": 1.78,
       "rev_est": 1394191108.0,
-      "implied_pct": 11.5,
-      "price": 420.02,
-      "implied_dollar": 48.3
+      "implied_pct": 12.6,
+      "price": 418.73,
+      "implied_dollar": 52.76
     },
     {
       "symbol": "ACDC",
@@ -5101,8 +5486,8 @@
       "time": "BMO",
       "eps_est": -0.42,
       "rev_est": 422708400.0,
-      "implied_pct": 43.4,
-      "price": 4.95,
+      "implied_pct": 41.6,
+      "price": 5.17,
       "implied_dollar": 2.15
     },
     {
@@ -5123,9 +5508,9 @@
       "time": "BMO",
       "eps_est": 1.45,
       "rev_est": 533102492.0,
-      "implied_pct": 19.3,
-      "price": 70.46,
-      "implied_dollar": 13.6
+      "implied_pct": 18.0,
+      "price": 72.56,
+      "implied_dollar": 13.06
     },
     {
       "symbol": "HDSN",
@@ -5134,8 +5519,8 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 38883165.0,
-      "implied_pct": 19.3,
-      "price": 7.11,
+      "implied_pct": 18.9,
+      "price": 7.26,
       "implied_dollar": 1.37
     },
     {
@@ -5189,9 +5574,9 @@
       "time": "AMC",
       "eps_est": 2.06,
       "rev_est": 19519405878.0,
-      "implied_pct": 9.3,
-      "price": 319.55,
-      "implied_dollar": 29.72
+      "implied_pct": 8.7,
+      "price": 318.82,
+      "implied_dollar": 27.74
     },
     {
       "symbol": "PBPB",
@@ -5211,9 +5596,9 @@
       "time": "AMC",
       "eps_est": 0.22,
       "rev_est": 1259679617.0,
-      "implied_pct": 29.1,
-      "price": 9.88,
-      "implied_dollar": 2.88
+      "implied_pct": 23.0,
+      "price": 9.25,
+      "implied_dollar": 2.13
     },
     {
       "symbol": "VMD",
@@ -5263,12 +5648,12 @@
       "symbol": "SMRT",
       "company": "SmartRent, Inc.",
       "date": "2026-03-04",
-      "time": "AMC",
+      "time": "BMO",
       "eps_est": -0.02,
       "rev_est": 37039770.0,
-      "implied_pct": 111.2,
-      "price": 1.52,
-      "implied_dollar": 1.69
+      "implied_pct": 105.1,
+      "price": 1.57,
+      "implied_dollar": 1.65
     },
     {
       "symbol": "ADV",
@@ -5299,9 +5684,9 @@
       "time": "BMO",
       "eps_est": 1.67,
       "rev_est": 988841257.0,
-      "implied_pct": 11.9,
-      "price": 65.21,
-      "implied_dollar": 7.76
+      "implied_pct": 11.3,
+      "price": 64.82,
+      "implied_dollar": 7.32
     },
     {
       "symbol": "MEC",
@@ -5321,9 +5706,9 @@
       "time": "AMC",
       "eps_est": -0.24,
       "rev_est": 0.0,
-      "implied_pct": 54.2,
-      "price": 7.12,
-      "implied_dollar": 3.86
+      "implied_pct": 12.4,
+      "price": 7.52,
+      "implied_dollar": 0.93
     },
     {
       "symbol": "SGC",
@@ -5332,8 +5717,8 @@
       "time": "AMC",
       "eps_est": 0.21,
       "rev_est": 146012670.0,
-      "implied_pct": 31.1,
-      "price": 9.93,
+      "implied_pct": 31.0,
+      "price": 9.96,
       "implied_dollar": 3.09
     },
     {
@@ -5343,9 +5728,9 @@
       "time": "AMC",
       "eps_est": 0.06,
       "rev_est": 76877063.0,
-      "implied_pct": 18.1,
-      "price": 19.9,
-      "implied_dollar": 3.6
+      "implied_pct": 15.0,
+      "price": 19.05,
+      "implied_dollar": 2.86
     },
     {
       "symbol": "CYRX",
@@ -5354,8 +5739,8 @@
       "time": "AMC",
       "eps_est": -0.21,
       "rev_est": 43779756.0,
-      "implied_pct": 5.0,
-      "price": 8.42,
+      "implied_pct": 5.1,
+      "price": 8.21,
       "implied_dollar": 0.42
     },
     {
@@ -5365,9 +5750,9 @@
       "time": "BMO",
       "eps_est": 0.04,
       "rev_est": 1982080701.0,
-      "implied_pct": 10.8,
-      "price": 96.13,
-      "implied_dollar": 10.38
+      "implied_pct": 11.7,
+      "price": 95.69,
+      "implied_dollar": 11.2
     },
     {
       "symbol": "MRX",
@@ -5376,9 +5761,9 @@
       "time": "BMO",
       "eps_est": 1.03,
       "rev_est": 514210594.0,
-      "implied_pct": 10.0,
-      "price": 43.46,
-      "implied_dollar": 4.35
+      "implied_pct": 11.9,
+      "price": 43.81,
+      "implied_dollar": 5.21
     },
     {
       "symbol": "GUTS",
@@ -5398,9 +5783,9 @@
       "time": "AMC",
       "eps_est": -0.31,
       "rev_est": 0.0,
-      "implied_pct": 80.3,
-      "price": 2.28,
-      "implied_dollar": 1.83
+      "implied_pct": 77.2,
+      "price": 2.32,
+      "implied_dollar": 1.79
     },
     {
       "symbol": "CPIX",
@@ -5409,9 +5794,9 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 17.3,
-      "price": 4.92,
-      "implied_dollar": 0.85
+      "implied_pct": 21.9,
+      "price": 4.84,
+      "implied_dollar": 1.06
     },
     {
       "symbol": "FSTR",
@@ -5420,9 +5805,9 @@
       "time": "BMO",
       "eps_est": 0.67,
       "rev_est": 161061396.0,
-      "implied_pct": 11.4,
-      "price": 30.73,
-      "implied_dollar": 3.5
+      "implied_pct": 10.9,
+      "price": 32.19,
+      "implied_dollar": 3.51
     },
     {
       "symbol": "SRRK",
@@ -5431,9 +5816,9 @@
       "time": "BMO",
       "eps_est": -0.91,
       "rev_est": 0.0,
-      "implied_pct": 14.9,
-      "price": 44.27,
-      "implied_dollar": 6.6
+      "implied_pct": 14.6,
+      "price": 43.48,
+      "implied_dollar": 6.35
     },
     {
       "symbol": "SOPH",
@@ -5442,8 +5827,8 @@
       "time": "BMO",
       "eps_est": -0.24,
       "rev_est": 20935500.0,
-      "implied_pct": 61.1,
-      "price": 4.5,
+      "implied_pct": 59.5,
+      "price": 4.62,
       "implied_dollar": 2.75
     },
     {
@@ -5475,9 +5860,9 @@
       "time": "AMC",
       "eps_est": 0.23,
       "rev_est": 257255628.0,
-      "implied_pct": 13.8,
-      "price": 26.3,
-      "implied_dollar": 3.63
+      "implied_pct": 13.9,
+      "price": 26.19,
+      "implied_dollar": 3.64
     },
     {
       "symbol": "MASS",
@@ -5486,8 +5871,8 @@
       "time": "BMO",
       "eps_est": -0.07,
       "rev_est": 16159860.0,
-      "implied_pct": 29.6,
-      "price": 6.9,
+      "implied_pct": 30.9,
+      "price": 6.61,
       "implied_dollar": 2.04
     },
     {
@@ -5508,9 +5893,9 @@
       "time": "AMC",
       "eps_est": 0.05,
       "rev_est": 91460482.0,
-      "implied_pct": 64.0,
-      "price": 4.3,
-      "implied_dollar": 2.75
+      "implied_pct": 65.3,
+      "price": 4.29,
+      "implied_dollar": 2.8
     },
     {
       "symbol": "CVEO",
@@ -5530,9 +5915,9 @@
       "time": "BMO",
       "eps_est": 0.21,
       "rev_est": 738823791.0,
-      "implied_pct": 13.9,
-      "price": 46.48,
-      "implied_dollar": 6.46
+      "implied_pct": 13.5,
+      "price": 46.76,
+      "implied_dollar": 6.31
     },
     {
       "symbol": "SRAD",
@@ -5541,9 +5926,9 @@
       "time": "BMO",
       "eps_est": 0.09,
       "rev_est": 376246951.0,
-      "implied_pct": 15.1,
-      "price": 18.26,
-      "implied_dollar": 2.76
+      "implied_pct": 17.5,
+      "price": 19.58,
+      "implied_dollar": 3.43
     },
     {
       "symbol": "CYN",
@@ -5563,9 +5948,9 @@
       "time": "AMC",
       "eps_est": -0.11,
       "rev_est": 3587340.0,
-      "implied_pct": 17.0,
-      "price": 8.23,
-      "implied_dollar": 1.4
+      "implied_pct": 16.7,
+      "price": 8.07,
+      "implied_dollar": 1.35
     },
     {
       "symbol": "WW",
@@ -5574,9 +5959,9 @@
       "time": "AMC",
       "eps_est": -1.24,
       "rev_est": 153571970.0,
-      "implied_pct": 27.9,
-      "price": 21.26,
-      "implied_dollar": 5.93
+      "implied_pct": 27.7,
+      "price": 21.8,
+      "implied_dollar": 6.04
     },
     {
       "symbol": "FRGE",
@@ -5607,9 +5992,9 @@
       "time": "AMC",
       "eps_est": 0.08,
       "rev_est": 18490560.0,
-      "implied_pct": 24.0,
-      "price": 5.84,
-      "implied_dollar": 1.4
+      "implied_pct": 30.3,
+      "price": 6.41,
+      "implied_dollar": 1.94
     },
     {
       "symbol": "GPGI",
@@ -5618,9 +6003,9 @@
       "time": "AMC",
       "eps_est": 0.24,
       "rev_est": 122502000.0,
-      "implied_pct": 50.2,
-      "price": 22.45,
-      "implied_dollar": 11.27
+      "implied_pct": 16.9,
+      "price": 22.54,
+      "implied_dollar": 3.81
     },
     {
       "symbol": "HRZN",
@@ -5629,9 +6014,9 @@
       "time": "AMC",
       "eps_est": 0.3,
       "rev_est": 25889640.0,
-      "implied_pct": 67.4,
-      "price": 5.96,
-      "implied_dollar": 4.02
+      "implied_pct": 66.7,
+      "price": 6.06,
+      "implied_dollar": 4.04
     },
     {
       "symbol": "NLST",
@@ -5662,8 +6047,8 @@
       "time": "AMC",
       "eps_est": -2.23,
       "rev_est": 53506650.0,
-      "implied_pct": 33.1,
-      "price": 2.87,
+      "implied_pct": 31.9,
+      "price": 2.98,
       "implied_dollar": 0.95
     },
     {
@@ -5673,9 +6058,9 @@
       "time": "AMC",
       "eps_est": -0.15,
       "rev_est": 344232323.0,
-      "implied_pct": 67.5,
-      "price": 11.25,
-      "implied_dollar": 7.59
+      "implied_pct": 66.8,
+      "price": 11.37,
+      "implied_dollar": 7.6
     },
     {
       "symbol": "RYAM",
@@ -5684,9 +6069,9 @@
       "time": "AMC",
       "eps_est": -0.08,
       "rev_est": 375258000.0,
-      "implied_pct": 30.1,
-      "price": 9.47,
-      "implied_dollar": 2.85
+      "implied_pct": 20.1,
+      "price": 9.56,
+      "implied_dollar": 1.92
     },
     {
       "symbol": "BBY",
@@ -5695,9 +6080,9 @@
       "time": "BMO",
       "eps_est": 2.49,
       "rev_est": 14015699562.0,
-      "implied_pct": 14.9,
-      "price": 61.97,
-      "implied_dollar": 9.23
+      "implied_pct": 10.6,
+      "price": 61.59,
+      "implied_dollar": 6.53
     },
     {
       "symbol": "CRCT",
@@ -5706,9 +6091,9 @@
       "time": "AMC",
       "eps_est": 0.03,
       "rev_est": 203668500.0,
-      "implied_pct": 63.0,
+      "implied_pct": 61.6,
       "price": 4.3,
-      "implied_dollar": 2.71
+      "implied_dollar": 2.65
     },
     {
       "symbol": "VSNT",
@@ -5717,13 +6102,13 @@
       "time": "BMO",
       "eps_est": 0.98,
       "rev_est": 1598348843.0,
-      "implied_pct": 9.6,
-      "price": 33.32,
-      "implied_dollar": 3.2
+      "implied_pct": 10.7,
+      "price": 32.74,
+      "implied_dollar": 3.5
     },
     {
       "symbol": "RNA",
-      "company": "Atrium Therapeutics, Inc. Common Stock",
+      "company": "Atrium Therapeutics, Inc.",
       "date": "2026-03-03",
       "time": "AMC",
       "eps_est": -1.27,
@@ -5739,8 +6124,8 @@
       "time": "BMO",
       "eps_est": 0.07,
       "rev_est": 10347900.0,
-      "implied_pct": 38.4,
-      "price": 1.77,
+      "implied_pct": 37.4,
+      "price": 1.82,
       "implied_dollar": 0.68
     },
     {
@@ -5761,9 +6146,9 @@
       "time": "AMC",
       "eps_est": -0.31,
       "rev_est": NaN,
-      "implied_pct": 25.4,
-      "price": 50.37,
-      "implied_dollar": 12.79
+      "implied_pct": 25.6,
+      "price": 55.74,
+      "implied_dollar": 14.27
     },
     {
       "symbol": "CRWD",
@@ -5772,9 +6157,9 @@
       "time": "AMC",
       "eps_est": 1.12,
       "rev_est": 1323093999.0,
-      "implied_pct": 9.1,
-      "price": 371.98,
-      "implied_dollar": 33.85
+      "implied_pct": 8.1,
+      "price": 384.86,
+      "implied_dollar": 31.17
     },
     {
       "symbol": "ICCM",
@@ -5794,8 +6179,8 @@
       "time": "AMC",
       "eps_est": 0.05,
       "rev_est": 80800000.0,
-      "implied_pct": 57.8,
-      "price": 5.19,
+      "implied_pct": 71.4,
+      "price": 4.2,
       "implied_dollar": 3.0
     },
     {
@@ -5816,9 +6201,9 @@
       "time": "AMC",
       "eps_est": -1.3,
       "rev_est": 957076000.0,
-      "implied_pct": 13.3,
-      "price": 36.83,
-      "implied_dollar": 4.9
+      "implied_pct": 10.2,
+      "price": 39.34,
+      "implied_dollar": 4.01
     },
     {
       "symbol": "BGS",
@@ -5827,8 +6212,8 @@
       "time": "AMC",
       "eps_est": 0.3,
       "rev_est": 542018267.0,
-      "implied_pct": 26.4,
-      "price": 5.31,
+      "implied_pct": 27.0,
+      "price": 5.18,
       "implied_dollar": 1.4
     },
     {
@@ -5838,8 +6223,8 @@
       "time": "AMC",
       "eps_est": -0.01,
       "rev_est": 11188380.0,
-      "implied_pct": 64.6,
-      "price": 1.47,
+      "implied_pct": 65.1,
+      "price": 1.46,
       "implied_dollar": 0.95
     },
     {
@@ -5849,9 +6234,9 @@
       "time": "AMC",
       "eps_est": -0.73,
       "rev_est": 18022492.0,
-      "implied_pct": 20.7,
-      "price": 8.23,
-      "implied_dollar": 1.7
+      "implied_pct": 19.2,
+      "price": 8.35,
+      "implied_dollar": 1.6
     },
     {
       "symbol": "QSI",
@@ -5860,8 +6245,8 @@
       "time": "AMC",
       "eps_est": -0.12,
       "rev_est": 769620.0,
-      "implied_pct": 54.4,
-      "price": 0.96,
+      "implied_pct": 55.7,
+      "price": 0.93,
       "implied_dollar": 0.52
     },
     {
@@ -5871,8 +6256,8 @@
       "time": "BMO",
       "eps_est": -0.37,
       "rev_est": 0.0,
-      "implied_pct": 14.1,
-      "price": 15.17,
+      "implied_pct": 14.0,
+      "price": 15.3,
       "implied_dollar": 2.14
     },
     {
@@ -5882,8 +6267,8 @@
       "time": "AMC",
       "eps_est": null,
       "rev_est": NaN,
-      "implied_pct": 66.4,
-      "price": 6.04,
+      "implied_pct": 61.6,
+      "price": 6.51,
       "implied_dollar": 4.01
     },
     {
@@ -5893,9 +6278,9 @@
       "time": "BMO",
       "eps_est": 0.54,
       "rev_est": 1640074612.0,
-      "implied_pct": 9.9,
-      "price": 78.02,
-      "implied_dollar": 7.72
+      "implied_pct": 10.9,
+      "price": 74.04,
+      "implied_dollar": 8.07
     },
     {
       "symbol": "AZO",
@@ -5915,8 +6300,8 @@
       "time": "AMC",
       "eps_est": -0.03,
       "rev_est": 7616340.0,
-      "implied_pct": 35.2,
-      "price": 1.42,
+      "implied_pct": 33.6,
+      "price": 1.49,
       "implied_dollar": 0.5
     },
     {
@@ -5926,9 +6311,9 @@
       "time": "BMO",
       "eps_est": -0.08,
       "rev_est": 102602820.0,
-      "implied_pct": 22.6,
-      "price": 2.74,
-      "implied_dollar": 0.62
+      "implied_pct": 20.8,
+      "price": 2.83,
+      "implied_dollar": 0.59
     },
     {
       "symbol": "WEYS",
@@ -5959,9 +6344,9 @@
       "time": "AMC",
       "eps_est": 0.97,
       "rev_est": 408236823.0,
-      "implied_pct": 14.4,
-      "price": 112.27,
-      "implied_dollar": 16.17
+      "implied_pct": 12.1,
+      "price": 114.22,
+      "implied_dollar": 13.82
     },
     {
       "symbol": "BRCB",
@@ -5970,9 +6355,9 @@
       "time": "AMC",
       "eps_est": 0.02,
       "rev_est": 54692400.0,
-      "implied_pct": 21.0,
-      "price": 13.34,
-      "implied_dollar": 2.8
+      "implied_pct": 22.3,
+      "price": 13.79,
+      "implied_dollar": 3.08
     },
     {
       "symbol": "UPLD",
@@ -5992,9 +6377,9 @@
       "time": "AMC",
       "eps_est": -0.26,
       "rev_est": 5706900.0,
-      "implied_pct": 71.8,
-      "price": 2.2,
-      "implied_dollar": 1.58
+      "implied_pct": 70.2,
+      "price": 2.15,
+      "implied_dollar": 1.51
     },
     {
       "symbol": "BOX",
@@ -6003,9 +6388,9 @@
       "time": "AMC",
       "eps_est": 0.34,
       "rev_est": 307325708.0,
-      "implied_pct": 10.7,
-      "price": 23.55,
-      "implied_dollar": 2.52
+      "implied_pct": 12.1,
+      "price": 23.58,
+      "implied_dollar": 2.85
     },
     {
       "symbol": "PSFE",
@@ -6014,9 +6399,9 @@
       "time": "BMO",
       "eps_est": 0.37,
       "rev_est": 449849284.0,
-      "implied_pct": 14.7,
-      "price": 6.26,
-      "implied_dollar": 0.92
+      "implied_pct": 15.1,
+      "price": 6.21,
+      "implied_dollar": 0.94
     },
     {
       "symbol": "SSTI",
@@ -6025,9 +6410,9 @@
       "time": "AMC",
       "eps_est": -0.15,
       "rev_est": 25162380.0,
-      "implied_pct": 36.2,
-      "price": 7.3,
-      "implied_dollar": 2.64
+      "implied_pct": 18.9,
+      "price": 7.78,
+      "implied_dollar": 1.47
     },
     {
       "symbol": "ORN",
@@ -6036,9 +6421,9 @@
       "time": "AMC",
       "eps_est": 0.06,
       "rev_est": 224192053.0,
-      "implied_pct": 16.5,
-      "price": 13.73,
-      "implied_dollar": 2.27
+      "implied_pct": 18.9,
+      "price": 13.72,
+      "implied_dollar": 2.59
     },
     {
       "symbol": "SRTA",
@@ -6047,1362 +6432,9 @@
       "time": "BMO",
       "eps_est": -0.03,
       "rev_est": 61557000.0,
-      "implied_pct": 68.7,
-      "price": 4.28,
-      "implied_dollar": 2.94
-    },
-    {
-      "symbol": "PMVP",
-      "company": "PMV Pharmaceuticals, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.41,
-      "rev_est": 0.0,
-      "implied_pct": 11.8,
-      "price": 1.7,
-      "implied_dollar": 0.2
-    },
-    {
-      "symbol": "HROW",
-      "company": "Harrow, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.38,
-      "rev_est": 90216195.0,
-      "implied_pct": 19.5,
-      "price": 54.18,
-      "implied_dollar": 10.57
-    },
-    {
-      "symbol": "KSPI",
-      "company": "Joint Stock Company Kaspi.kz",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 1725.42,
-      "rev_est": 1207574685000.0,
-      "implied_pct": 10.6,
-      "price": 70.59,
-      "implied_dollar": 7.48
-    },
-    {
-      "symbol": "LIF",
-      "company": "Life360, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.13,
-      "rev_est": 140883011.0,
-      "implied_pct": 17.9,
-      "price": 52.65,
-      "implied_dollar": 9.42
-    },
-    {
-      "symbol": "AES",
-      "company": "The AES Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.61,
-      "rev_est": 3063119920.0,
-      "implied_pct": 15.6,
-      "price": 17.28,
-      "implied_dollar": 2.7
-    },
-    {
-      "symbol": "ADAP",
-      "company": "ADAP",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.12,
-      "rev_est": 3060000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "OUST",
-      "company": "Ouster, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.35,
-      "rev_est": 41922000.0,
-      "implied_pct": 19.8,
-      "price": 18.95,
-      "implied_dollar": 3.75
-    },
-    {
-      "symbol": "APVO",
-      "company": "Aptevo Therapeutics Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -8.26,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "INAB",
-      "company": "IN8bio, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.63,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "APGE",
-      "company": "Apogee Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -1.08,
-      "rev_est": 0.0,
-      "implied_pct": 21.6,
-      "price": 70.0,
-      "implied_dollar": 15.12
-    },
-    {
-      "symbol": "RPAY",
-      "company": "Repay Holdings Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.21,
-      "rev_est": 78343140.0,
-      "implied_pct": 94.6,
-      "price": 2.78,
-      "implied_dollar": 2.63
-    },
-    {
-      "symbol": "GHI",
-      "company": "Greystone Housing Impact Investors LP",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.11,
-      "rev_est": 24589965.0,
-      "implied_pct": 11.5,
-      "price": 7.84,
-      "implied_dollar": 0.9
-    },
-    {
-      "symbol": "CGEN",
-      "company": "Compugen Ltd.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.05,
-      "rev_est": 1383803.0,
-      "implied_pct": 43.6,
-      "price": 1.81,
-      "implied_dollar": 0.79
-    },
-    {
-      "symbol": "GTBP",
-      "company": "GT Biopharma, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.22,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "PLRX",
-      "company": "Pliant Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.41,
-      "rev_est": 0.0,
-      "implied_pct": 36.9,
-      "price": 1.3,
-      "implied_dollar": 0.48
-    },
-    {
-      "symbol": "TIL",
-      "company": "Instil Bio, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -2.05,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "OFS",
-      "company": "OFS Capital Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.23,
-      "rev_est": NaN,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "ANNX",
-      "company": "Annexon, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.33,
-      "rev_est": 0.0,
-      "implied_pct": 91.1,
-      "price": 5.6,
-      "implied_dollar": 5.1
-    },
-    {
-      "symbol": "VTS",
-      "company": "Vitesse Energy, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.22,
-      "rev_est": 67771000.0,
-      "implied_pct": 3.8,
-      "price": 19.31,
-      "implied_dollar": 0.73
-    },
-    {
-      "symbol": "CRBU",
-      "company": "Caribou Biosciences, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.32,
-      "rev_est": 2573317.0,
-      "implied_pct": 65.8,
-      "price": 1.9,
-      "implied_dollar": 1.25
-    },
-    {
-      "symbol": "MYPS",
-      "company": "PLAYSTUDIOS, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.04,
-      "rev_est": 57355824.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "PLUG",
-      "company": "Plug Power Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.1,
-      "rev_est": 222121983.0,
-      "implied_pct": 74.9,
-      "price": 1.79,
-      "implied_dollar": 1.34
-    },
-    {
-      "symbol": "ATRA",
-      "company": "Atara Biotherapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.37,
-      "rev_est": 2291430.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "IPSC",
-      "company": "Century Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.29,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "TNYA",
-      "company": "Tenaya Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.12,
-      "rev_est": 0.0,
-      "implied_pct": 44.5,
-      "price": 0.56,
-      "implied_dollar": 0.25
-    },
-    {
-      "symbol": "CMMB",
-      "company": "Chemomab Therapeutics Ltd.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.32,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "ADT",
-      "company": "ADT Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.22,
-      "rev_est": 1308484290.0,
-      "implied_pct": 10.7,
-      "price": 8.02,
-      "implied_dollar": 0.86
-    },
-    {
-      "symbol": "CERS",
-      "company": "Cerus Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.01,
-      "rev_est": 59236500.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "MRCC",
-      "company": "Monroe Capital Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.09,
-      "rev_est": 8037600.0,
-      "implied_pct": 53.7,
-      "price": 5.87,
-      "implied_dollar": 3.15
-    },
-    {
-      "symbol": "QUBT",
-      "company": "Quantum Computing Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.03,
-      "rev_est": 339150.0,
-      "implied_pct": 14.5,
-      "price": 8.41,
-      "implied_dollar": 1.22
-    },
-    {
-      "symbol": "KBDC",
-      "company": "Kayne Anderson BDC, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.42,
-      "rev_est": 62274060.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "GRRR",
-      "company": "Gorilla Technology Group Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.23,
-      "rev_est": 34552500.0,
-      "implied_pct": 24.7,
-      "price": 11.82,
-      "implied_dollar": 2.92
-    },
-    {
-      "symbol": "NN",
-      "company": "NextNav Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.13,
-      "rev_est": 880650.0,
-      "implied_pct": 17.0,
-      "price": 16.09,
-      "implied_dollar": 2.74
-    },
-    {
-      "symbol": "NUVB",
-      "company": "Nuvation Bio Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.09,
-      "rev_est": 38072622.0,
-      "implied_pct": 51.6,
-      "price": 5.91,
-      "implied_dollar": 3.05
-    },
-    {
-      "symbol": "NEXT",
-      "company": "NextDecade Corporation",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.49,
-      "rev_est": 0.0,
-      "implied_pct": 24.5,
-      "price": 5.39,
-      "implied_dollar": 1.32
-    },
-    {
-      "symbol": "BEEP",
-      "company": "Mobile Infrastructure Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.11,
-      "rev_est": 8807016.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "STNE",
-      "company": "StoneCo Ltd.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 2.68,
-      "rev_est": 3853594884.0,
-      "implied_pct": 24.6,
-      "price": 16.8,
-      "implied_dollar": 4.13
-    },
-    {
-      "symbol": "DAVE",
-      "company": "Dave Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 3.26,
-      "rev_est": 160344000.0,
-      "implied_pct": 20.0,
-      "price": 193.27,
-      "implied_dollar": 38.65
-    },
-    {
-      "symbol": "IMPP",
-      "company": "Imperial Petroleum Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.35,
-      "rev_est": 46512000.0,
-      "implied_pct": 35.3,
-      "price": 4.25,
-      "implied_dollar": 1.5
-    },
-    {
-      "symbol": "AVDX",
-      "company": "AVDX",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.09,
-      "rev_est": 123247324.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "YMAB",
-      "company": "YMAB",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.29,
-      "rev_est": 23265404.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "ALG",
-      "company": "Alamo Group Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 2.14,
-      "rev_est": 403606100.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "HSII",
-      "company": "HSII",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.73,
-      "rev_est": 311100000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "UNIT",
-      "company": "Uniti Group Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.34,
-      "rev_est": 903514837.0,
-      "implied_pct": 36.2,
-      "price": 7.32,
-      "implied_dollar": 2.65
-    },
-    {
-      "symbol": "TDUP",
-      "company": "ThredUp Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.04,
-      "rev_est": 78744000.0,
-      "implied_pct": 54.3,
-      "price": 4.88,
-      "implied_dollar": 2.65
-    },
-    {
-      "symbol": "MKTW",
-      "company": "MarketWise, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.22,
-      "rev_est": 72012000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "KROS",
-      "company": "Keros Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.64,
-      "rev_est": 2812282.0,
-      "implied_pct": 34.9,
-      "price": 14.19,
-      "implied_dollar": 4.95
-    },
-    {
-      "symbol": "SNAL",
-      "company": "Snail, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.04,
-      "rev_est": 23460000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "CLPT",
-      "company": "ClearPoint Neuro, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.2,
-      "rev_est": 10251000.0,
-      "implied_pct": 24.1,
-      "price": 12.57,
-      "implied_dollar": 3.03
-    },
-    {
-      "symbol": "SCOR",
-      "company": "comScore, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 1.98,
-      "rev_est": 93942000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "SANW",
-      "company": "S&W Seed Company",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -1.9,
-      "rev_est": 6630000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "GECC",
-      "company": "Great Elm Capital Corp.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.35,
-      "rev_est": 13538796.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "DRVN",
-      "company": "Driven Brands Holdings Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.28,
-      "rev_est": 483076590.0,
-      "implied_pct": 36.6,
-      "price": 11.0,
-      "implied_dollar": 4.03
-    },
-    {
-      "symbol": "TUYA",
-      "company": "Tuya Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.03,
-      "rev_est": 81115500.0,
-      "implied_pct": 16.1,
-      "price": 2.55,
-      "implied_dollar": 0.41
-    },
-    {
-      "symbol": "SLND",
-      "company": "Southland Holdings, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.18,
-      "rev_est": 216363930.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "AMRC",
-      "company": "Ameresco, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.32,
-      "rev_est": 567207811.0,
-      "implied_pct": 29.4,
-      "price": 30.46,
-      "implied_dollar": 8.96
-    },
-    {
-      "symbol": "QTRX",
-      "company": "Quanterix Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.46,
-      "rev_est": 38901525.0,
-      "implied_pct": 49.2,
-      "price": 6.55,
-      "implied_dollar": 3.22
-    },
-    {
-      "symbol": "WHF",
-      "company": "WhiteHorse Finance, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.28,
-      "rev_est": 17643356.0,
-      "implied_pct": 22.4,
-      "price": 6.3,
-      "implied_dollar": 1.41
-    },
-    {
-      "symbol": "NFE",
-      "company": "New Fortress Energy Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.7,
-      "rev_est": NaN,
-      "implied_pct": 31.2,
-      "price": 1.09,
-      "implied_dollar": 0.34
-    },
-    {
-      "symbol": "QURE",
-      "company": "uniQure N.V.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.97,
-      "rev_est": 5308161.0,
-      "implied_pct": 44.8,
-      "price": 15.63,
-      "implied_dollar": 7.0
-    },
-    {
-      "symbol": "SE",
-      "company": "Sea Limited",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.63,
-      "rev_est": 6643138470.0,
-      "implied_pct": 12.3,
-      "price": 108.45,
-      "implied_dollar": 13.34
-    },
-    {
-      "symbol": "API",
-      "company": "Agora, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": null,
-      "rev_est": NaN,
-      "implied_pct": 42.8,
-      "price": 4.67,
-      "implied_dollar": 2.0
-    },
-    {
-      "symbol": "SEE",
-      "company": "Sealed Air Corporation",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.74,
-      "rev_est": 1355766137.0,
-      "implied_pct": 1.1,
-      "price": 41.88,
-      "implied_dollar": 0.46
-    },
-    {
-      "symbol": "AAON",
-      "company": "AAON, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.46,
-      "rev_est": 379797000.0,
-      "implied_pct": 15.5,
-      "price": 101.2,
-      "implied_dollar": 15.69
-    },
-    {
-      "symbol": "SLNCF",
-      "company": "Silence Therapeutics plc",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": null,
-      "rev_est": NaN,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "PASG",
-      "company": "Passage Bio, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -2.62,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "FSCO",
-      "company": "FS Credit Opportunities Corp.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": null,
-      "rev_est": NaN,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "ASTH",
-      "company": "Astrana Health, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.11,
-      "rev_est": 949060356.0,
-      "implied_pct": 22.4,
-      "price": 20.33,
-      "implied_dollar": 4.55
-    },
-    {
-      "symbol": "ASAN",
-      "company": "Asana, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.07,
-      "rev_est": 209228673.0,
-      "implied_pct": 60.8,
-      "price": 7.1,
-      "implied_dollar": 4.32
-    },
-    {
-      "symbol": "XERS",
-      "company": "Xeris Biopharma Holdings, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.04,
-      "rev_est": 83986800.0,
-      "implied_pct": 75.7,
-      "price": 6.12,
-      "implied_dollar": 4.63
-    },
-    {
-      "symbol": "BBAI",
-      "company": "BigBear.ai Holdings, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.06,
-      "rev_est": 33974843.0,
-      "implied_pct": 36.4,
-      "price": 3.96,
-      "implied_dollar": 1.44
-    },
-    {
-      "symbol": "ADIL",
-      "company": "Adial Pharmaceuticals, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -2.19,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "RIOT",
-      "company": "Riot Platforms, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.29,
-      "rev_est": 164521858.0,
-      "implied_pct": 23.9,
-      "price": 16.29,
-      "implied_dollar": 3.89
-    },
-    {
-      "symbol": "GASS",
-      "company": "StealthGas Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.33,
-      "rev_est": 40596000.0,
-      "implied_pct": 17.9,
-      "price": 8.95,
-      "implied_dollar": 1.6
-    },
-    {
-      "symbol": "BLFY",
-      "company": "Blue Foundry Bancorp",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.09,
-      "rev_est": 12930030.0,
-      "implied_pct": 3.4,
-      "price": 13.18,
-      "implied_dollar": 0.45
-    },
-    {
-      "symbol": "IHRT",
-      "company": "iHeartMedia, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.14,
-      "rev_est": 1121361990.0,
-      "implied_pct": 26.0,
-      "price": 3.27,
-      "implied_dollar": 0.85
-    },
-    {
-      "symbol": "BRCC",
-      "company": "BRC Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.0,
-      "rev_est": 112058220.0,
-      "implied_pct": 69.9,
-      "price": 0.63,
-      "implied_dollar": 0.44
-    },
-    {
-      "symbol": "DYN",
-      "company": "Dyne Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.78,
-      "rev_est": 0.0,
-      "implied_pct": 46.4,
-      "price": 15.62,
-      "implied_dollar": 7.25
-    },
-    {
-      "symbol": "CORZ",
-      "company": "Core Scientific, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.09,
-      "rev_est": 124517724.0,
-      "implied_pct": 34.9,
-      "price": 16.97,
-      "implied_dollar": 5.92
-    },
-    {
-      "symbol": "MRSN",
-      "company": "Mersana Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -3.3,
-      "rev_est": 5193258.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "MDB",
-      "company": "MongoDB, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 1.46,
-      "rev_est": 673821176.0,
-      "implied_pct": 16.7,
-      "price": 328.47,
-      "implied_dollar": 54.85
-    },
-    {
-      "symbol": "PEPG",
-      "company": "PepGen Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.38,
-      "rev_est": 0.0,
-      "implied_pct": 34.6,
-      "price": 6.22,
-      "implied_dollar": 2.15
-    },
-    {
-      "symbol": "SGRY",
-      "company": "Surgery Partners, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.31,
-      "rev_est": 883797921.0,
-      "implied_pct": 21.2,
-      "price": 15.5,
-      "implied_dollar": 3.29
-    },
-    {
-      "symbol": "HOWL",
-      "company": "Werewolf Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.36,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "BLTE",
-      "company": "Belite Bio, Inc",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.56,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "BHVN",
-      "company": "Biohaven Ltd.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -1.32,
-      "rev_est": 0.0,
-      "implied_pct": 35.5,
-      "price": 11.52,
-      "implied_dollar": 4.09
-    },
-    {
-      "symbol": "ACNT",
-      "company": "Ascent Industries Co.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.16,
-      "rev_est": 49878000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "HLIO",
-      "company": "Helios Technologies, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.73,
-      "rev_est": 200946120.0,
-      "implied_pct": 10.6,
-      "price": 71.32,
-      "implied_dollar": 7.56
-    },
-    {
-      "symbol": "CMPX",
-      "company": "Compass Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.1,
-      "rev_est": 0.0,
-      "implied_pct": 55.0,
-      "price": 5.65,
-      "implied_dollar": 3.11
-    },
-    {
-      "symbol": "ARIS",
-      "company": "Aris Mining Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.36,
-      "rev_est": 124820664.0,
-      "implied_pct": 13.6,
-      "price": 22.68,
-      "implied_dollar": 3.08
-    },
-    {
-      "symbol": "HCAT",
-      "company": "Health Catalyst, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.09,
-      "rev_est": 75464088.0,
-      "implied_pct": 58.6,
-      "price": 1.62,
-      "implied_dollar": 0.95
-    },
-    {
-      "symbol": "SATS",
-      "company": "EchoStar Corporation",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.75,
-      "rev_est": 3837747276.0,
-      "implied_pct": 10.0,
-      "price": 115.53,
-      "implied_dollar": 11.55
-    },
-    {
-      "symbol": "NCLH",
-      "company": "Norwegian Cruise Line Holdings Ltd.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.27,
-      "rev_est": 2393650564.0,
-      "implied_pct": 11.5,
-      "price": 24.79,
-      "implied_dollar": 2.85
-    },
-    {
-      "symbol": "TPB",
-      "company": "Turning Point Brands, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.89,
-      "rev_est": 121463610.0,
-      "implied_pct": 12.5,
-      "price": 136.99,
-      "implied_dollar": 17.12
-    },
-    {
-      "symbol": "WKSP",
-      "company": "Worksport Ltd.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.55,
-      "rev_est": 4917930.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "INGM",
-      "company": "Ingram Micro Holding Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.9,
-      "rev_est": 14354006467.0,
-      "implied_pct": 16.7,
-      "price": 20.69,
-      "implied_dollar": 3.46
-    },
-    {
-      "symbol": "VIGL",
-      "company": "VIGL",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.46,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "LONA",
-      "company": "LeonaBio, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.85,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "VG",
-      "company": "VG",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.37,
-      "rev_est": 4651030332.0,
-      "implied_pct": 17.8,
-      "price": 9.69,
-      "implied_dollar": 1.72
-    },
-    {
-      "symbol": "SENS",
-      "company": "Senseonics Holdings, Inc. Common Stock",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.44,
-      "rev_est": 14623995.0,
-      "implied_pct": 23.2,
-      "price": 8.27,
-      "implied_dollar": 1.92
-    },
-    {
-      "symbol": "BBLG",
-      "company": "Bone Biologics Corporation",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.35,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "RGR",
-      "company": "Sturm, Ruger & Company, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.32,
-      "rev_est": 140634925.0,
-      "implied_pct": 13.8,
-      "price": 37.44,
-      "implied_dollar": 5.17
-    },
-    {
-      "symbol": "GENK",
-      "company": "GEN Restaurant Group, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.18,
-      "rev_est": 59945400.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "LMB",
-      "company": "Limbach Holdings, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 1.05,
-      "rev_est": 199536408.0,
-      "implied_pct": 20.3,
-      "price": 91.42,
-      "implied_dollar": 18.56
-    },
-    {
-      "symbol": "QVCGA",
-      "company": "QVC Group Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": null,
-      "rev_est": NaN,
-      "implied_pct": 112.9,
-      "price": 3.02,
-      "implied_dollar": 3.41
-    },
-    {
-      "symbol": "TGNA",
-      "company": "TEGNA Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.48,
-      "rev_est": 714760716.0,
-      "implied_pct": 5.0,
-      "price": 20.95,
-      "implied_dollar": 1.05
-    },
-    {
-      "symbol": "AIV",
-      "company": "Apartment Investment and Management Company",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.11,
-      "rev_est": 57570000.0,
-      "implied_pct": 17.0,
-      "price": 4.41,
-      "implied_dollar": 0.75
-    },
-    {
-      "symbol": "JRVR",
-      "company": "James River Group Holdings, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.43,
-      "rev_est": 175424700.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "NOVA",
-      "company": "NOVA",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.88,
-      "rev_est": 266867445.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "GAIA",
-      "company": "Gaia, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.02,
-      "rev_est": 25857000.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "TREE",
-      "company": "LendingTree, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.89,
-      "rev_est": 292216403.0,
-      "implied_pct": 21.7,
-      "price": 37.37,
-      "implied_dollar": 8.11
-    },
-    {
-      "symbol": "ZYME",
-      "company": "Zymeworks Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.42,
-      "rev_est": 13847856.0,
-      "implied_pct": 11.2,
-      "price": 23.29,
-      "implied_dollar": 2.61
-    },
-    {
-      "symbol": "YSG",
-      "company": "Yatsen Holding Limited",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": null,
-      "rev_est": NaN,
-      "implied_pct": 48.5,
-      "price": 4.45,
-      "implied_dollar": 2.16
-    },
-    {
-      "symbol": "KOS",
-      "company": "Kosmos Energy Ltd.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.13,
-      "rev_est": 322595686.0,
-      "implied_pct": 71.7,
-      "price": 2.33,
-      "implied_dollar": 1.67
-    },
-    {
-      "symbol": "TDW",
-      "company": "Tidewater Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 0.79,
-      "rev_est": 337762180.0,
-      "implied_pct": 13.9,
-      "price": 79.42,
-      "implied_dollar": 11.04
-    },
-    {
-      "symbol": "RIGL",
-      "company": "Rigel Pharmaceuticals, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 1.27,
-      "rev_est": 70075224.0,
-      "implied_pct": 22.3,
-      "price": 34.74,
-      "implied_dollar": 7.75
-    },
-    {
-      "symbol": "CRC",
-      "company": "California Resources Corporation",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.53,
-      "rev_est": 779783630.0,
-      "implied_pct": 8.8,
-      "price": 58.84,
-      "implied_dollar": 5.18
-    },
-    {
-      "symbol": "BYND",
-      "company": "Beyond Meat, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.13,
-      "rev_est": 63820380.0,
-      "implied_pct": 49.7,
-      "price": 0.95,
-      "implied_dollar": 0.47
-    },
-    {
-      "symbol": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.16,
-      "rev_est": 41927242.0,
-      "implied_pct": 15.9,
-      "price": 79.19,
-      "implied_dollar": 12.59
-    },
-    {
-      "symbol": "JSPR",
-      "company": "Jasper Therapeutics, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": -0.68,
-      "rev_est": 0.0,
-      "implied_pct": null,
-      "price": null,
-      "implied_dollar": null
-    },
-    {
-      "symbol": "RNGR",
-      "company": "Ranger Energy Services, Inc.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": 0.19,
-      "rev_est": 139400003.0,
-      "implied_pct": 22.2,
-      "price": 17.42,
-      "implied_dollar": 3.87
-    },
-    {
-      "symbol": "URGN",
-      "company": "UroGen Pharma Ltd.",
-      "date": "2026-03-02",
-      "time": "BMO",
-      "eps_est": -0.51,
-      "rev_est": 40720827.0,
-      "implied_pct": 20.0,
-      "price": 21.7,
-      "implied_dollar": 4.34
-    },
-    {
-      "symbol": "TBPH",
-      "company": "Theravance Biopharma, Inc.",
-      "date": "2026-03-02",
-      "time": "AMC",
-      "eps_est": 1.15,
-      "rev_est": 51877200.0,
-      "implied_pct": 57.5,
-      "price": 18.25,
-      "implied_dollar": 10.49
+      "implied_pct": 61.2,
+      "price": 4.49,
+      "implied_dollar": 2.75
     }
   ]
 }
