@@ -15,8 +15,15 @@ def get_finnhub_earnings():
     print(f"Calling Finnhub...")
     response = requests.get(url)
     data = response.json()
-    df = pd.DataFrame(data.get("earningsCalendar", []))
-    df = df[df["hour"].isin(["bmo", "amc"])]
+   if "earningsCalendar" in data and data["earningsCalendar"]:
+    df = pd.DataFrame(data["earningsCalendar"])
+    if "hour" in df.columns:
+        df = df[df["hour"].isin(["bmo", "amc"])]
+    else:
+        print("Warning: No 'hour' column found, using all events")
+else:
+    df = pd.DataFrame()
+    print("No earningsCalendar data returned")
     print(f"Finnhub returned {len(df)} confirmed earnings")
     return df[["symbol", "date", "hour", "epsEstimate", "revenueEstimate"]]
 
